@@ -1,0 +1,466 @@
+D:\V2.0\code\AGI2015\V1.0wcp\OUTPUT\DeviceMangerModule.dll.config
+D:\V2.0\code\AGI2015\V1.0wcp\OUTPUT\DeviceMangerModule.dll
+D:\V2.0\code\AGI2015\V1.0wcp\OUTPUT\DeviceMangerModule.pdb
+D:\V2.0\code\AGI2015\V1.0wcp\DeviceMangerModule\obj\Debug\ResolveAssemblyReference.cache
+D:\V2.0\code\AGI2015\V1.0wcp\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceConfiguration.resources
+D:\V2.0\code\AGI2015\V1.0wcp\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceManger.resources
+D:\V2.0\code\AGI2015\V1.0wcp\DeviceMangerModule\obj\Debug\DeviceMangerModule.NewDevice.resources
+D:\V2.0\code\AGI2015\V1.0wcp\DeviceMangerModule\obj\Debug\DeviceMangerModule.Properties.Resources.resources
+D:\V2.0\code\AGI2015\V1.0wcp\DeviceMangerModule\obj\Debug\GenerateResource.read.1.tlog
+D:\V2.0\code\AGI2015\V1.0wcp\DeviceMangerModule\obj\Debug\GenerateResource.write.1.tlog
+D:\V2.0\code\AGI2015\V1.0wcp\DeviceMangerModule\obj\Debug\DeviceMangerModule.dll
+D:\V2.0\code\AGI2015\V1.0wcp\DeviceMangerModule\obj\Debug\DeviceMangerModule.pdb
+D:\V2.0\code\AGI2015\V1.0wcp\OUTPUT\DeviceMangerModule.XML
+D:\赵博项目\对比\AGI2015\V1.0wcp\OUTPUT\DeviceMangerModule.dll.config
+D:\赵博项目\对比\AGI2015\V1.0wcp\OUTPUT\DeviceMangerModule.XML
+D:\赵博项目\对比\AGI2015\V1.0wcp\OUTPUT\DeviceMangerModule.dll
+D:\赵博项目\对比\AGI2015\V1.0wcp\OUTPUT\DeviceMangerModule.pdb
+D:\赵博项目\对比\AGI2015\V1.0wcp\DeviceMangerModule\obj\Debug\ResolveAssemblyReference.cache
+D:\赵博项目\对比\AGI2015\V1.0wcp\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceConfiguration.resources
+D:\赵博项目\对比\AGI2015\V1.0wcp\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceManger.resources
+D:\赵博项目\对比\AGI2015\V1.0wcp\DeviceMangerModule\obj\Debug\DeviceMangerModule.NewDevice.resources
+D:\赵博项目\对比\AGI2015\V1.0wcp\DeviceMangerModule\obj\Debug\DeviceMangerModule.Properties.Resources.resources
+D:\赵博项目\对比\AGI2015\V1.0wcp\DeviceMangerModule\obj\Debug\GenerateResource.read.1.tlog
+D:\赵博项目\对比\AGI2015\V1.0wcp\DeviceMangerModule\obj\Debug\GenerateResource.write.1.tlog
+D:\赵博项目\对比\AGI2015\V1.0wcp\DeviceMangerModule\obj\Debug\DeviceMangerModule.dll
+D:\赵博项目\对比\AGI2015\V1.0wcp\DeviceMangerModule\obj\Debug\DeviceMangerModule.pdb
+D:\赵博项目\AGI2015\V1.0wcp\OUTPUT\DeviceMangerModule.dll.config
+D:\赵博项目\AGI2015\V1.0wcp\OUTPUT\DeviceMangerModule.dll
+D:\赵博项目\AGI2015\V1.0wcp\OUTPUT\DeviceMangerModule.pdb
+D:\赵博项目\AGI2015\V1.0wcp\DeviceMangerModule\obj\Debug\ResolveAssemblyReference.cache
+D:\赵博项目\AGI2015\V1.0wcp\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceConfiguration.resources
+D:\赵博项目\AGI2015\V1.0wcp\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceManger.resources
+D:\赵博项目\AGI2015\V1.0wcp\DeviceMangerModule\obj\Debug\DeviceMangerModule.NewDevice.resources
+D:\赵博项目\AGI2015\V1.0wcp\DeviceMangerModule\obj\Debug\DeviceMangerModule.Properties.Resources.resources
+D:\赵博项目\AGI2015\V1.0wcp\DeviceMangerModule\obj\Debug\GenerateResource.read.1.tlog
+D:\赵博项目\AGI2015\V1.0wcp\DeviceMangerModule\obj\Debug\GenerateResource.write.1.tlog
+D:\赵博项目\AGI2015\V1.0wcp\DeviceMangerModule\obj\Debug\DeviceMangerModule.dll
+D:\赵博项目\AGI2015\V1.0wcp\DeviceMangerModule\obj\Debug\DeviceMangerModule.pdb
+D:\赵博项目\AGI2015\V1.0wcp\OUTPUT\DeviceMangerModule.XML
+D:\赵博项目\LTE用户定位系统\DeviceMangerModule\obj\Debug\ResolveAssemblyReference.cache
+D:\赵博项目\LTE用户定位系统\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceConfiguration.resources
+D:\赵博项目\LTE用户定位系统\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceManger.resources
+D:\赵博项目\LTE用户定位系统\DeviceMangerModule\obj\Debug\DeviceMangerModule.NewDevice.resources
+D:\赵博项目\LTE用户定位系统\DeviceMangerModule\obj\Debug\DeviceMangerModule.Properties.Resources.resources
+D:\赵博项目\LTE用户定位系统\DeviceMangerModule\obj\Debug\GenerateResource.read.1.tlog
+D:\赵博项目\LTE用户定位系统\DeviceMangerModule\obj\Debug\GenerateResource.write.1.tlog
+D:\赵博项目\LTE用户定位系统\DeviceMangerModule\obj\Debug\DeviceMangerModule.dll
+D:\赵博项目\LTE用户定位系统\DeviceMangerModule\obj\Debug\DeviceMangerModule.pdb
+D:\赵博项目\LTE用户定位系统\OUTPUT\DeviceMangerModule.dll.config
+D:\赵博项目\LTE用户定位系统\OUTPUT\DeviceMangerModule.XML
+D:\赵博项目\LTE用户定位系统\OUTPUT\DeviceMangerModule.dll
+D:\赵博项目\LTE用户定位系统\OUTPUT\DeviceMangerModule.pdb
+C:\Users\zxw\Desktop\LTE用户定位系统\OUTPUT\DeviceMangerModule.dll.config
+C:\Users\zxw\Desktop\LTE用户定位系统\OUTPUT\DeviceMangerModule.dll
+C:\Users\zxw\Desktop\LTE用户定位系统\OUTPUT\DeviceMangerModule.pdb
+C:\Users\zxw\Desktop\LTE用户定位系统\DeviceMangerModule\obj\Debug\DeviceMangerModule.csprojResolveAssemblyReference.cache
+C:\Users\zxw\Desktop\LTE用户定位系统\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceConfiguration.resources
+C:\Users\zxw\Desktop\LTE用户定位系统\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceManger.resources
+C:\Users\zxw\Desktop\LTE用户定位系统\DeviceMangerModule\obj\Debug\DeviceMangerModule.NewDevice.resources
+C:\Users\zxw\Desktop\LTE用户定位系统\DeviceMangerModule\obj\Debug\DeviceMangerModule.Properties.Resources.resources
+C:\Users\zxw\Desktop\LTE用户定位系统\DeviceMangerModule\obj\Debug\DeviceMangerModule.csproj.GenerateResource.Cache
+C:\Users\zxw\Desktop\LTE用户定位系统\DeviceMangerModule\obj\Debug\DeviceMangerModule.dll
+C:\Users\zxw\Desktop\LTE用户定位系统\DeviceMangerModule\obj\Debug\DeviceMangerModule.pdb
+C:\Users\zxw\Desktop\LTE用户定位系统 - 副本\OUTPUT\DeviceMangerModule.dll.config
+C:\Users\zxw\Desktop\LTE用户定位系统 - 副本\OUTPUT\DeviceMangerModule.dll
+C:\Users\zxw\Desktop\LTE用户定位系统 - 副本\OUTPUT\DeviceMangerModule.pdb
+C:\Users\zxw\Desktop\LTE用户定位系统 - 副本\DeviceMangerModule\obj\Debug\DeviceMangerModule.csprojResolveAssemblyReference.cache
+C:\Users\zxw\Desktop\LTE用户定位系统 - 副本\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceConfiguration.resources
+C:\Users\zxw\Desktop\LTE用户定位系统 - 副本\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceManger.resources
+C:\Users\zxw\Desktop\LTE用户定位系统 - 副本\DeviceMangerModule\obj\Debug\DeviceMangerModule.NewDevice.resources
+C:\Users\zxw\Desktop\LTE用户定位系统 - 副本\DeviceMangerModule\obj\Debug\DeviceMangerModule.Properties.Resources.resources
+C:\Users\zxw\Desktop\LTE用户定位系统 - 副本\DeviceMangerModule\obj\Debug\DeviceMangerModule.csproj.GenerateResource.Cache
+C:\Users\zxw\Desktop\LTE用户定位系统 - 副本\DeviceMangerModule\obj\Debug\DeviceMangerModule.dll
+C:\Users\zxw\Desktop\LTE用户定位系统 - 副本\DeviceMangerModule\obj\Debug\DeviceMangerModule.pdb
+C:\Users\zxw\Desktop\LTE用户定位系统 - 副本 - 副本\DeviceMangerModule\obj\Debug\DeviceMangerModule.csprojResolveAssemblyReference.cache
+C:\Users\zxw\Desktop\LTE用户定位系统 - 副本 - 副本\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceConfiguration.resources
+C:\Users\zxw\Desktop\LTE用户定位系统 - 副本 - 副本\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceManger.resources
+C:\Users\zxw\Desktop\LTE用户定位系统 - 副本 - 副本\DeviceMangerModule\obj\Debug\DeviceMangerModule.NewDevice.resources
+C:\Users\zxw\Desktop\LTE用户定位系统 - 副本 - 副本\DeviceMangerModule\obj\Debug\DeviceMangerModule.Properties.Resources.resources
+C:\Users\zxw\Desktop\LTE用户定位系统 - 副本 - 副本\DeviceMangerModule\obj\Debug\DeviceMangerModule.csproj.GenerateResource.Cache
+C:\Users\zxw\Desktop\LTE用户定位系统 - 副本 - 副本\DeviceMangerModule\obj\Debug\DeviceMangerModule.dll
+C:\Users\zxw\Desktop\LTE用户定位系统 - 副本 - 副本\DeviceMangerModule\obj\Debug\DeviceMangerModule.pdb
+C:\Users\zxw\Desktop\LTE用户定位系统 - 副本 - 副本\OUTPUT\DeviceMangerModule.dll.config
+C:\Users\zxw\Desktop\LTE用户定位系统 - 副本 - 副本\OUTPUT\DeviceMangerModule.dll
+C:\Users\zxw\Desktop\LTE用户定位系统 - 副本 - 副本\OUTPUT\DeviceMangerModule.pdb
+C:\Users\zxw\Desktop\LTE用户定位系统-副本-副本\OUTPUT\DeviceMangerModule.dll.config
+C:\Users\zxw\Desktop\LTE用户定位系统-副本-副本\OUTPUT\DeviceMangerModule.dll
+C:\Users\zxw\Desktop\LTE用户定位系统-副本-副本\OUTPUT\DeviceMangerModule.pdb
+C:\Users\zxw\Desktop\LTE用户定位系统-副本-副本\DeviceMangerModule\obj\Debug\DeviceMangerModule.csprojResolveAssemblyReference.cache
+C:\Users\zxw\Desktop\LTE用户定位系统-副本-副本\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceConfiguration.resources
+C:\Users\zxw\Desktop\LTE用户定位系统-副本-副本\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceManger.resources
+C:\Users\zxw\Desktop\LTE用户定位系统-副本-副本\DeviceMangerModule\obj\Debug\DeviceMangerModule.NewDevice.resources
+C:\Users\zxw\Desktop\LTE用户定位系统-副本-副本\DeviceMangerModule\obj\Debug\DeviceMangerModule.Properties.Resources.resources
+C:\Users\zxw\Desktop\LTE用户定位系统-副本-副本\DeviceMangerModule\obj\Debug\DeviceMangerModule.csproj.GenerateResource.Cache
+C:\Users\zxw\Desktop\LTE用户定位系统-副本-副本\DeviceMangerModule\obj\Debug\DeviceMangerModule.dll
+C:\Users\zxw\Desktop\LTE用户定位系统-副本-副本\DeviceMangerModule\obj\Debug\DeviceMangerModule.pdb
+C:\Users\xfh\Desktop\LTE用户定位系统-副本-副本\OUTPUT\DeviceMangerModule.dll.config
+C:\Users\xfh\Desktop\LTE用户定位系统-副本-副本\OUTPUT\DeviceMangerModule.dll
+C:\Users\xfh\Desktop\LTE用户定位系统-副本-副本\OUTPUT\DeviceMangerModule.pdb
+C:\Users\xfh\Desktop\LTE用户定位系统-副本-副本\DeviceMangerModule\obj\Debug\DeviceMangerModule.csprojResolveAssemblyReference.cache
+C:\Users\xfh\Desktop\LTE用户定位系统-副本-副本\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceConfiguration.resources
+C:\Users\xfh\Desktop\LTE用户定位系统-副本-副本\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceManger.resources
+C:\Users\xfh\Desktop\LTE用户定位系统-副本-副本\DeviceMangerModule\obj\Debug\DeviceMangerModule.NewDevice.resources
+C:\Users\xfh\Desktop\LTE用户定位系统-副本-副本\DeviceMangerModule\obj\Debug\DeviceMangerModule.Properties.Resources.resources
+C:\Users\xfh\Desktop\LTE用户定位系统-副本-副本\DeviceMangerModule\obj\Debug\DeviceMangerModule.csproj.GenerateResource.Cache
+C:\Users\xfh\Desktop\LTE用户定位系统-副本-副本\DeviceMangerModule\obj\Debug\DeviceMangerModule.dll
+C:\Users\xfh\Desktop\LTE用户定位系统-副本-副本\DeviceMangerModule\obj\Debug\DeviceMangerModule.pdb
+C:\Users\xfh\Desktop\LTE用户定位系统-\OUTPUT\DeviceMangerModule.dll.config
+C:\Users\xfh\Desktop\LTE用户定位系统-\OUTPUT\DeviceMangerModule.XML
+C:\Users\xfh\Desktop\LTE用户定位系统-\OUTPUT\DeviceMangerModule.dll
+C:\Users\xfh\Desktop\LTE用户定位系统-\OUTPUT\DeviceMangerModule.pdb
+C:\Users\xfh\Desktop\LTE用户定位系统-\DeviceMangerModule\obj\Debug\DeviceMangerModule.csprojResolveAssemblyReference.cache
+C:\Users\xfh\Desktop\LTE用户定位系统-\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceConfiguration.resources
+C:\Users\xfh\Desktop\LTE用户定位系统-\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceManger.resources
+C:\Users\xfh\Desktop\LTE用户定位系统-\DeviceMangerModule\obj\Debug\DeviceMangerModule.NewDevice.resources
+C:\Users\xfh\Desktop\LTE用户定位系统-\DeviceMangerModule\obj\Debug\DeviceMangerModule.Properties.Resources.resources
+C:\Users\xfh\Desktop\LTE用户定位系统-\DeviceMangerModule\obj\Debug\DeviceMangerModule.csproj.GenerateResource.Cache
+C:\Users\xfh\Desktop\LTE用户定位系统-\DeviceMangerModule\obj\Debug\DeviceMangerModule.dll
+C:\Users\xfh\Desktop\LTE用户定位系统-\DeviceMangerModule\obj\Debug\DeviceMangerModule.pdb
+C:\Users\xfh\Desktop\LTE用户定位系统 - 7.6\OUTPUT\DeviceMangerModule.dll.config
+C:\Users\xfh\Desktop\LTE用户定位系统 - 7.6\OUTPUT\DeviceMangerModule.dll
+C:\Users\xfh\Desktop\LTE用户定位系统 - 7.6\OUTPUT\DeviceMangerModule.pdb
+C:\Users\xfh\Desktop\LTE用户定位系统 - 7.6\DeviceMangerModule\obj\Debug\DeviceMangerModule.csprojResolveAssemblyReference.cache
+C:\Users\xfh\Desktop\LTE用户定位系统 - 7.6\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceConfiguration.resources
+C:\Users\xfh\Desktop\LTE用户定位系统 - 7.6\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceManger.resources
+C:\Users\xfh\Desktop\LTE用户定位系统 - 7.6\DeviceMangerModule\obj\Debug\DeviceMangerModule.NewDevice.resources
+C:\Users\xfh\Desktop\LTE用户定位系统 - 7.6\DeviceMangerModule\obj\Debug\DeviceMangerModule.Properties.Resources.resources
+C:\Users\xfh\Desktop\LTE用户定位系统 - 7.6\DeviceMangerModule\obj\Debug\DeviceMangerModule.csproj.GenerateResource.Cache
+C:\Users\xfh\Desktop\LTE用户定位系统 - 7.6\DeviceMangerModule\obj\Debug\DeviceMangerModule.dll
+C:\Users\xfh\Desktop\LTE用户定位系统 - 7.6\DeviceMangerModule\obj\Debug\DeviceMangerModule.pdb
+C:\Users\xfh\Desktop\LTE用户定位系统 - 7.6\OUTPUT\DeviceMangerModule.XML
+D:\项目\LTE用户定位系统 - 7.6\OUTPUT\DeviceMangerModule.dll.config
+D:\项目\LTE用户定位系统 - 7.6\OUTPUT\DeviceMangerModule.dll
+D:\项目\LTE用户定位系统 - 7.6\OUTPUT\DeviceMangerModule.pdb
+D:\项目\LTE用户定位系统 - 7.6\DeviceMangerModule\obj\Debug\DeviceMangerModule.csprojResolveAssemblyReference.cache
+D:\项目\LTE用户定位系统 - 7.6\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceConfiguration.resources
+D:\项目\LTE用户定位系统 - 7.6\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceManger.resources
+D:\项目\LTE用户定位系统 - 7.6\DeviceMangerModule\obj\Debug\DeviceMangerModule.NewDevice.resources
+D:\项目\LTE用户定位系统 - 7.6\DeviceMangerModule\obj\Debug\DeviceMangerModule.Properties.Resources.resources
+D:\项目\LTE用户定位系统 - 7.6\DeviceMangerModule\obj\Debug\DeviceMangerModule.csproj.GenerateResource.Cache
+D:\项目\LTE用户定位系统 - 7.6\DeviceMangerModule\obj\Debug\DeviceMangerModule.dll
+D:\项目\LTE用户定位系统 - 7.6\DeviceMangerModule\obj\Debug\DeviceMangerModule.pdb
+C:\Users\zxw\Desktop\LTE用户定位系统 - 7.6\OUTPUT\DeviceMangerModule.dll.config
+C:\Users\zxw\Desktop\LTE用户定位系统 - 7.6\OUTPUT\DeviceMangerModule.dll
+C:\Users\zxw\Desktop\LTE用户定位系统 - 7.6\OUTPUT\DeviceMangerModule.pdb
+C:\Users\zxw\Desktop\LTE用户定位系统 - 7.6\DeviceMangerModule\obj\Debug\DeviceMangerModule.csprojResolveAssemblyReference.cache
+C:\Users\zxw\Desktop\LTE用户定位系统 - 7.6\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceConfiguration.resources
+C:\Users\zxw\Desktop\LTE用户定位系统 - 7.6\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceManger.resources
+C:\Users\zxw\Desktop\LTE用户定位系统 - 7.6\DeviceMangerModule\obj\Debug\DeviceMangerModule.NewDevice.resources
+C:\Users\zxw\Desktop\LTE用户定位系统 - 7.6\DeviceMangerModule\obj\Debug\DeviceMangerModule.Properties.Resources.resources
+C:\Users\zxw\Desktop\LTE用户定位系统 - 7.6\DeviceMangerModule\obj\Debug\DeviceMangerModule.csproj.GenerateResource.Cache
+C:\Users\zxw\Desktop\LTE用户定位系统 - 7.6\DeviceMangerModule\obj\Debug\DeviceMangerModule.dll
+C:\Users\zxw\Desktop\LTE用户定位系统 - 7.6\DeviceMangerModule\obj\Debug\DeviceMangerModule.pdb
+C:\Users\xfh\Desktop\LTE用户定位系统8.6\OUTPUT\DeviceMangerModule.dll.config
+C:\Users\xfh\Desktop\LTE用户定位系统8.6\OUTPUT\DeviceMangerModule.XML
+C:\Users\xfh\Desktop\LTE用户定位系统8.6\OUTPUT\DeviceMangerModule.dll
+C:\Users\xfh\Desktop\LTE用户定位系统8.6\OUTPUT\DeviceMangerModule.pdb
+C:\Users\xfh\Desktop\LTE用户定位系统8.6\DeviceMangerModule\obj\Debug\DeviceMangerModule.csprojResolveAssemblyReference.cache
+C:\Users\xfh\Desktop\LTE用户定位系统8.6\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceConfiguration.resources
+C:\Users\xfh\Desktop\LTE用户定位系统8.6\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceManger.resources
+C:\Users\xfh\Desktop\LTE用户定位系统8.6\DeviceMangerModule\obj\Debug\DeviceMangerModule.NewDevice.resources
+C:\Users\xfh\Desktop\LTE用户定位系统8.6\DeviceMangerModule\obj\Debug\DeviceMangerModule.Properties.Resources.resources
+C:\Users\xfh\Desktop\LTE用户定位系统8.6\DeviceMangerModule\obj\Debug\DeviceMangerModule.csproj.GenerateResource.Cache
+C:\Users\xfh\Desktop\LTE用户定位系统8.6\DeviceMangerModule\obj\Debug\DeviceMangerModule.dll
+C:\Users\xfh\Desktop\LTE用户定位系统8.6\DeviceMangerModule\obj\Debug\DeviceMangerModule.pdb
+D:\实习\C#项目\LTE用户定位系统8.8\OUTPUT\DeviceMangerModule.dll.config
+D:\实习\C#项目\LTE用户定位系统8.8\OUTPUT\DeviceMangerModule.dll
+D:\实习\C#项目\LTE用户定位系统8.8\OUTPUT\DeviceMangerModule.pdb
+D:\实习\C#项目\LTE用户定位系统8.8\DeviceMangerModule\obj\Debug\DeviceMangerModule.csprojResolveAssemblyReference.cache
+D:\实习\C#项目\LTE用户定位系统8.8\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceConfiguration.resources
+D:\实习\C#项目\LTE用户定位系统8.8\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceManger.resources
+D:\实习\C#项目\LTE用户定位系统8.8\DeviceMangerModule\obj\Debug\DeviceMangerModule.NewDevice.resources
+D:\实习\C#项目\LTE用户定位系统8.8\DeviceMangerModule\obj\Debug\DeviceMangerModule.Properties.Resources.resources
+D:\实习\C#项目\LTE用户定位系统8.8\DeviceMangerModule\obj\Debug\DeviceMangerModule.csproj.GenerateResource.Cache
+D:\实习\C#项目\LTE用户定位系统8.8\DeviceMangerModule\obj\Debug\DeviceMangerModule.dll
+D:\实习\C#项目\LTE用户定位系统8.8\DeviceMangerModule\obj\Debug\DeviceMangerModule.pdb
+D:\实习\C#项目\LTE用户定位系统8.8\OUTPUT\DeviceMangerModule.XML
+D:\实习\C#项目\LTE用户定位系统8.19\OUTPUT\DeviceMangerModule.dll.config
+D:\实习\C#项目\LTE用户定位系统8.19\OUTPUT\DeviceMangerModule.dll
+D:\实习\C#项目\LTE用户定位系统8.19\OUTPUT\DeviceMangerModule.pdb
+D:\实习\C#项目\LTE用户定位系统8.19\DeviceMangerModule\obj\Debug\DeviceMangerModule.csprojResolveAssemblyReference.cache
+D:\实习\C#项目\LTE用户定位系统8.19\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceConfiguration.resources
+D:\实习\C#项目\LTE用户定位系统8.19\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceManger.resources
+D:\实习\C#项目\LTE用户定位系统8.19\DeviceMangerModule\obj\Debug\DeviceMangerModule.NewDevice.resources
+D:\实习\C#项目\LTE用户定位系统8.19\DeviceMangerModule\obj\Debug\DeviceMangerModule.Properties.Resources.resources
+D:\实习\C#项目\LTE用户定位系统8.19\DeviceMangerModule\obj\Debug\DeviceMangerModule.csproj.GenerateResource.Cache
+D:\实习\C#项目\LTE用户定位系统8.19\DeviceMangerModule\obj\Debug\DeviceMangerModule.dll
+D:\实习\C#项目\LTE用户定位系统8.19\DeviceMangerModule\obj\Debug\DeviceMangerModule.pdb
+C:\Users\xfh\Desktop\LTE用户定位系统8.19\OUTPUT\DeviceMangerModule.dll.config
+C:\Users\xfh\Desktop\LTE用户定位系统8.19\OUTPUT\DeviceMangerModule.dll
+C:\Users\xfh\Desktop\LTE用户定位系统8.19\OUTPUT\DeviceMangerModule.pdb
+C:\Users\xfh\Desktop\LTE用户定位系统8.19\DeviceMangerModule\obj\Debug\DeviceMangerModule.csprojResolveAssemblyReference.cache
+C:\Users\xfh\Desktop\LTE用户定位系统8.19\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceConfiguration.resources
+C:\Users\xfh\Desktop\LTE用户定位系统8.19\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceManger.resources
+C:\Users\xfh\Desktop\LTE用户定位系统8.19\DeviceMangerModule\obj\Debug\DeviceMangerModule.NewDevice.resources
+C:\Users\xfh\Desktop\LTE用户定位系统8.19\DeviceMangerModule\obj\Debug\DeviceMangerModule.Properties.Resources.resources
+C:\Users\xfh\Desktop\LTE用户定位系统8.19\DeviceMangerModule\obj\Debug\DeviceMangerModule.csproj.GenerateResource.Cache
+C:\Users\xfh\Desktop\LTE用户定位系统8.19\DeviceMangerModule\obj\Debug\DeviceMangerModule.dll
+C:\Users\xfh\Desktop\LTE用户定位系统8.19\DeviceMangerModule\obj\Debug\DeviceMangerModule.pdb
+C:\Users\xfh\Desktop\LTE用户定位系统8.19\OUTPUT\DeviceMangerModule.XML
+D:\实习\C#项目\LTE用户定位系统8.22\OUTPUT\DeviceMangerModule.dll.config
+D:\实习\C#项目\LTE用户定位系统8.22\OUTPUT\DeviceMangerModule.dll
+D:\实习\C#项目\LTE用户定位系统8.22\OUTPUT\DeviceMangerModule.pdb
+D:\实习\C#项目\LTE用户定位系统8.22\DeviceMangerModule\obj\Debug\DeviceMangerModule.csprojResolveAssemblyReference.cache
+D:\实习\C#项目\LTE用户定位系统8.22\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceConfiguration.resources
+D:\实习\C#项目\LTE用户定位系统8.22\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceManger.resources
+D:\实习\C#项目\LTE用户定位系统8.22\DeviceMangerModule\obj\Debug\DeviceMangerModule.NewDevice.resources
+D:\实习\C#项目\LTE用户定位系统8.22\DeviceMangerModule\obj\Debug\DeviceMangerModule.Properties.Resources.resources
+D:\实习\C#项目\LTE用户定位系统8.22\DeviceMangerModule\obj\Debug\DeviceMangerModule.csproj.GenerateResource.Cache
+D:\实习\C#项目\LTE用户定位系统8.22\DeviceMangerModule\obj\Debug\DeviceMangerModule.dll
+D:\实习\C#项目\LTE用户定位系统8.22\DeviceMangerModule\obj\Debug\DeviceMangerModule.pdb
+C:\Users\xfh\Desktop\LTE用户定位系统8.28单用户\OUTPUT\DeviceMangerModule.dll.config
+C:\Users\xfh\Desktop\LTE用户定位系统8.28单用户\OUTPUT\DeviceMangerModule.dll
+C:\Users\xfh\Desktop\LTE用户定位系统8.28单用户\OUTPUT\DeviceMangerModule.pdb
+C:\Users\xfh\Desktop\LTE用户定位系统8.28单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.csprojResolveAssemblyReference.cache
+C:\Users\xfh\Desktop\LTE用户定位系统8.28单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceConfiguration.resources
+C:\Users\xfh\Desktop\LTE用户定位系统8.28单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceManger.resources
+C:\Users\xfh\Desktop\LTE用户定位系统8.28单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.NewDevice.resources
+C:\Users\xfh\Desktop\LTE用户定位系统8.28单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.Properties.Resources.resources
+C:\Users\xfh\Desktop\LTE用户定位系统8.28单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.csproj.GenerateResource.Cache
+C:\Users\xfh\Desktop\LTE用户定位系统8.28单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.dll
+C:\Users\xfh\Desktop\LTE用户定位系统8.28单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.pdb
+C:\Users\xfh\Desktop\LTE用户定位系统8.28单用户\OUTPUT\DeviceMangerModule.XML
+C:\Users\xfh\Desktop\LTE用户定位系统8.28单用户 - 副本\OUTPUT\DeviceMangerModule.dll.config
+C:\Users\xfh\Desktop\LTE用户定位系统8.28单用户 - 副本\OUTPUT\DeviceMangerModule.dll
+C:\Users\xfh\Desktop\LTE用户定位系统8.28单用户 - 副本\OUTPUT\DeviceMangerModule.pdb
+C:\Users\xfh\Desktop\LTE用户定位系统8.28单用户 - 副本\DeviceMangerModule\obj\Debug\DeviceMangerModule.csprojResolveAssemblyReference.cache
+C:\Users\xfh\Desktop\LTE用户定位系统8.28单用户 - 副本\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceConfiguration.resources
+C:\Users\xfh\Desktop\LTE用户定位系统8.28单用户 - 副本\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceManger.resources
+C:\Users\xfh\Desktop\LTE用户定位系统8.28单用户 - 副本\DeviceMangerModule\obj\Debug\DeviceMangerModule.NewDevice.resources
+C:\Users\xfh\Desktop\LTE用户定位系统8.28单用户 - 副本\DeviceMangerModule\obj\Debug\DeviceMangerModule.Properties.Resources.resources
+C:\Users\xfh\Desktop\LTE用户定位系统8.28单用户 - 副本\DeviceMangerModule\obj\Debug\DeviceMangerModule.csproj.GenerateResource.Cache
+C:\Users\xfh\Desktop\LTE用户定位系统8.28单用户 - 副本\DeviceMangerModule\obj\Debug\DeviceMangerModule.dll
+C:\Users\xfh\Desktop\LTE用户定位系统8.28单用户 - 副本\DeviceMangerModule\obj\Debug\DeviceMangerModule.pdb
+D:\实习\C#项目\LTE用户定位系统9.1单用户\OUTPUT\DeviceMangerModule.dll.config
+D:\实习\C#项目\LTE用户定位系统9.1单用户\OUTPUT\DeviceMangerModule.dll
+D:\实习\C#项目\LTE用户定位系统9.1单用户\OUTPUT\DeviceMangerModule.pdb
+D:\实习\C#项目\LTE用户定位系统9.1单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.csprojResolveAssemblyReference.cache
+D:\实习\C#项目\LTE用户定位系统9.1单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceConfiguration.resources
+D:\实习\C#项目\LTE用户定位系统9.1单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceManger.resources
+D:\实习\C#项目\LTE用户定位系统9.1单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.NewDevice.resources
+D:\实习\C#项目\LTE用户定位系统9.1单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.Properties.Resources.resources
+D:\实习\C#项目\LTE用户定位系统9.1单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.csproj.GenerateResource.Cache
+D:\实习\C#项目\LTE用户定位系统9.1单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.dll
+D:\实习\C#项目\LTE用户定位系统9.1单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.pdb
+C:\Users\zxw\Desktop\LTE用户定位系统9.1单用户\OUTPUT\DeviceMangerModule.dll.config
+C:\Users\zxw\Desktop\LTE用户定位系统9.1单用户\OUTPUT\DeviceMangerModule.dll
+C:\Users\zxw\Desktop\LTE用户定位系统9.1单用户\OUTPUT\DeviceMangerModule.pdb
+C:\Users\zxw\Desktop\LTE用户定位系统9.1单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.csprojResolveAssemblyReference.cache
+C:\Users\zxw\Desktop\LTE用户定位系统9.1单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceConfiguration.resources
+C:\Users\zxw\Desktop\LTE用户定位系统9.1单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceManger.resources
+C:\Users\zxw\Desktop\LTE用户定位系统9.1单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.NewDevice.resources
+C:\Users\zxw\Desktop\LTE用户定位系统9.1单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.Properties.Resources.resources
+C:\Users\zxw\Desktop\LTE用户定位系统9.1单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.csproj.GenerateResource.Cache
+C:\Users\zxw\Desktop\LTE用户定位系统9.1单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.dll
+C:\Users\zxw\Desktop\LTE用户定位系统9.1单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.pdb
+D:\实习\C#项目\LTE用户定位系统9.13单用户\OUTPUT\DeviceMangerModule.dll.config
+D:\实习\C#项目\LTE用户定位系统9.13单用户\OUTPUT\DeviceMangerModule.dll
+D:\实习\C#项目\LTE用户定位系统9.13单用户\OUTPUT\DeviceMangerModule.pdb
+D:\实习\C#项目\LTE用户定位系统9.13单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.csprojResolveAssemblyReference.cache
+D:\实习\C#项目\LTE用户定位系统9.13单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceConfiguration.resources
+D:\实习\C#项目\LTE用户定位系统9.13单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceManger.resources
+D:\实习\C#项目\LTE用户定位系统9.13单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.NewDevice.resources
+D:\实习\C#项目\LTE用户定位系统9.13单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.Properties.Resources.resources
+D:\实习\C#项目\LTE用户定位系统9.13单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.csproj.GenerateResource.Cache
+D:\实习\C#项目\LTE用户定位系统9.13单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.dll
+D:\实习\C#项目\LTE用户定位系统9.13单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.pdb
+D:\实习\C#项目\LTE用户定位系统9.21单用户\OUTPUT\DeviceMangerModule.dll.config
+D:\实习\C#项目\LTE用户定位系统9.21单用户\OUTPUT\DeviceMangerModule.dll
+D:\实习\C#项目\LTE用户定位系统9.21单用户\OUTPUT\DeviceMangerModule.pdb
+D:\实习\C#项目\LTE用户定位系统9.21单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.csprojResolveAssemblyReference.cache
+D:\实习\C#项目\LTE用户定位系统9.21单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceConfiguration.resources
+D:\实习\C#项目\LTE用户定位系统9.21单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceManger.resources
+D:\实习\C#项目\LTE用户定位系统9.21单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.NewDevice.resources
+D:\实习\C#项目\LTE用户定位系统9.21单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.Properties.Resources.resources
+D:\实习\C#项目\LTE用户定位系统9.21单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.csproj.GenerateResource.Cache
+D:\实习\C#项目\LTE用户定位系统9.21单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.dll
+D:\实习\C#项目\LTE用户定位系统9.21单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.pdb
+D:\实习\C#项目\LTE用户定位系统9.27单用户\OUTPUT\DeviceMangerModule.dll.config
+D:\实习\C#项目\LTE用户定位系统9.27单用户\OUTPUT\DeviceMangerModule.dll
+D:\实习\C#项目\LTE用户定位系统9.27单用户\OUTPUT\DeviceMangerModule.pdb
+D:\实习\C#项目\LTE用户定位系统9.27单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.csprojResolveAssemblyReference.cache
+D:\实习\C#项目\LTE用户定位系统9.27单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceConfiguration.resources
+D:\实习\C#项目\LTE用户定位系统9.27单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceManger.resources
+D:\实习\C#项目\LTE用户定位系统9.27单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.NewDevice.resources
+D:\实习\C#项目\LTE用户定位系统9.27单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.Properties.Resources.resources
+D:\实习\C#项目\LTE用户定位系统9.27单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.csproj.GenerateResource.Cache
+D:\实习\C#项目\LTE用户定位系统9.27单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.dll
+D:\实习\C#项目\LTE用户定位系统9.27单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.pdb
+D:\实习\C#项目\LTE用户定位系统9.27单用户\OUTPUT\DeviceMangerModule.XML
+C:\Users\zxw\Desktop\LTE用户定位系统10.1单用户\OUTPUT\DeviceMangerModule.dll.config
+C:\Users\zxw\Desktop\LTE用户定位系统10.1单用户\OUTPUT\DeviceMangerModule.dll
+C:\Users\zxw\Desktop\LTE用户定位系统10.1单用户\OUTPUT\DeviceMangerModule.pdb
+C:\Users\zxw\Desktop\LTE用户定位系统10.1单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.csprojResolveAssemblyReference.cache
+C:\Users\zxw\Desktop\LTE用户定位系统10.1单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceConfiguration.resources
+C:\Users\zxw\Desktop\LTE用户定位系统10.1单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceManger.resources
+C:\Users\zxw\Desktop\LTE用户定位系统10.1单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.NewDevice.resources
+C:\Users\zxw\Desktop\LTE用户定位系统10.1单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.Properties.Resources.resources
+C:\Users\zxw\Desktop\LTE用户定位系统10.1单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.csproj.GenerateResource.Cache
+C:\Users\zxw\Desktop\LTE用户定位系统10.1单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.dll
+C:\Users\zxw\Desktop\LTE用户定位系统10.1单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.pdb
+D:\实习\C#项目\LTE用户定位系统10.1单用户\OUTPUT\DeviceMangerModule.dll.config
+D:\实习\C#项目\LTE用户定位系统10.1单用户\OUTPUT\DeviceMangerModule.XML
+D:\实习\C#项目\LTE用户定位系统10.1单用户\OUTPUT\DeviceMangerModule.dll
+D:\实习\C#项目\LTE用户定位系统10.1单用户\OUTPUT\DeviceMangerModule.pdb
+D:\实习\C#项目\LTE用户定位系统10.1单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.csprojResolveAssemblyReference.cache
+D:\实习\C#项目\LTE用户定位系统10.1单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceConfiguration.resources
+D:\实习\C#项目\LTE用户定位系统10.1单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceManger.resources
+D:\实习\C#项目\LTE用户定位系统10.1单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.NewDevice.resources
+D:\实习\C#项目\LTE用户定位系统10.1单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.Properties.Resources.resources
+D:\实习\C#项目\LTE用户定位系统10.1单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.csproj.GenerateResource.Cache
+D:\实习\C#项目\LTE用户定位系统10.1单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.dll
+D:\实习\C#项目\LTE用户定位系统10.1单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.pdb
+C:\Users\zxw\Desktop\LTE用户定位系统10.10单用户\OUTPUT\DeviceMangerModule.dll.config
+C:\Users\zxw\Desktop\LTE用户定位系统10.10单用户\OUTPUT\DeviceMangerModule.dll
+C:\Users\zxw\Desktop\LTE用户定位系统10.10单用户\OUTPUT\DeviceMangerModule.pdb
+C:\Users\zxw\Desktop\LTE用户定位系统10.10单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.csprojResolveAssemblyReference.cache
+C:\Users\zxw\Desktop\LTE用户定位系统10.10单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceConfiguration.resources
+C:\Users\zxw\Desktop\LTE用户定位系统10.10单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceManger.resources
+C:\Users\zxw\Desktop\LTE用户定位系统10.10单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.NewDevice.resources
+C:\Users\zxw\Desktop\LTE用户定位系统10.10单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.Properties.Resources.resources
+C:\Users\zxw\Desktop\LTE用户定位系统10.10单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.csproj.GenerateResource.Cache
+C:\Users\zxw\Desktop\LTE用户定位系统10.10单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.dll
+C:\Users\zxw\Desktop\LTE用户定位系统10.10单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.pdb
+D:\实习\C#项目\LTE用户定位系统10.11单用户\OUTPUT\DeviceMangerModule.dll.config
+D:\实习\C#项目\LTE用户定位系统10.11单用户\OUTPUT\DeviceMangerModule.dll
+D:\实习\C#项目\LTE用户定位系统10.11单用户\OUTPUT\DeviceMangerModule.pdb
+D:\实习\C#项目\LTE用户定位系统10.11单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.csprojResolveAssemblyReference.cache
+D:\实习\C#项目\LTE用户定位系统10.11单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceConfiguration.resources
+D:\实习\C#项目\LTE用户定位系统10.11单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceManger.resources
+D:\实习\C#项目\LTE用户定位系统10.11单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.NewDevice.resources
+D:\实习\C#项目\LTE用户定位系统10.11单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.Properties.Resources.resources
+D:\实习\C#项目\LTE用户定位系统10.11单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.csproj.GenerateResource.Cache
+D:\实习\C#项目\LTE用户定位系统10.11单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.dll
+D:\实习\C#项目\LTE用户定位系统10.11单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.pdb
+C:\Users\zxw\Desktop\LTE用户定位系统10.14单用户\OUTPUT\DeviceMangerModule.dll.config
+C:\Users\zxw\Desktop\LTE用户定位系统10.14单用户\OUTPUT\DeviceMangerModule.dll
+C:\Users\zxw\Desktop\LTE用户定位系统10.14单用户\OUTPUT\DeviceMangerModule.pdb
+C:\Users\zxw\Desktop\LTE用户定位系统10.14单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.csprojResolveAssemblyReference.cache
+C:\Users\zxw\Desktop\LTE用户定位系统10.14单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceConfiguration.resources
+C:\Users\zxw\Desktop\LTE用户定位系统10.14单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceManger.resources
+C:\Users\zxw\Desktop\LTE用户定位系统10.14单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.NewDevice.resources
+C:\Users\zxw\Desktop\LTE用户定位系统10.14单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.Properties.Resources.resources
+C:\Users\zxw\Desktop\LTE用户定位系统10.14单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.csproj.GenerateResource.Cache
+C:\Users\zxw\Desktop\LTE用户定位系统10.14单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.dll
+C:\Users\zxw\Desktop\LTE用户定位系统10.14单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.pdb
+C:\Users\zxw\Desktop\LTE用户定位系统10.17单用户\OUTPUT\DeviceMangerModule.dll.config
+C:\Users\zxw\Desktop\LTE用户定位系统10.17单用户\OUTPUT\DeviceMangerModule.dll
+C:\Users\zxw\Desktop\LTE用户定位系统10.17单用户\OUTPUT\DeviceMangerModule.pdb
+C:\Users\zxw\Desktop\LTE用户定位系统10.17单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.csprojResolveAssemblyReference.cache
+C:\Users\zxw\Desktop\LTE用户定位系统10.17单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceConfiguration.resources
+C:\Users\zxw\Desktop\LTE用户定位系统10.17单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceManger.resources
+C:\Users\zxw\Desktop\LTE用户定位系统10.17单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.NewDevice.resources
+C:\Users\zxw\Desktop\LTE用户定位系统10.17单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.Properties.Resources.resources
+C:\Users\zxw\Desktop\LTE用户定位系统10.17单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.csproj.GenerateResource.Cache
+C:\Users\zxw\Desktop\LTE用户定位系统10.17单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.dll
+C:\Users\zxw\Desktop\LTE用户定位系统10.17单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.pdb
+D:\实习\C#项目\LTE用户定位系统10.20单用户\OUTPUT\DeviceMangerModule.dll.config
+D:\实习\C#项目\LTE用户定位系统10.20单用户\OUTPUT\DeviceMangerModule.dll
+D:\实习\C#项目\LTE用户定位系统10.20单用户\OUTPUT\DeviceMangerModule.pdb
+D:\实习\C#项目\LTE用户定位系统10.20单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.csprojResolveAssemblyReference.cache
+D:\实习\C#项目\LTE用户定位系统10.20单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceConfiguration.resources
+D:\实习\C#项目\LTE用户定位系统10.20单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceManger.resources
+D:\实习\C#项目\LTE用户定位系统10.20单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.NewDevice.resources
+D:\实习\C#项目\LTE用户定位系统10.20单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.Properties.Resources.resources
+D:\实习\C#项目\LTE用户定位系统10.20单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.csproj.GenerateResource.Cache
+D:\实习\C#项目\LTE用户定位系统10.20单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.dll
+D:\实习\C#项目\LTE用户定位系统10.20单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.pdb
+C:\Users\TEMP\Desktop\LTE用户定位系统10.22单用户\OUTPUT\DeviceMangerModule.dll.config
+C:\Users\TEMP\Desktop\LTE用户定位系统10.22单用户\OUTPUT\DeviceMangerModule.dll
+C:\Users\TEMP\Desktop\LTE用户定位系统10.22单用户\OUTPUT\DeviceMangerModule.pdb
+C:\Users\TEMP\Desktop\LTE用户定位系统10.22单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.csprojResolveAssemblyReference.cache
+C:\Users\TEMP\Desktop\LTE用户定位系统10.22单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceConfiguration.resources
+C:\Users\TEMP\Desktop\LTE用户定位系统10.22单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceManger.resources
+C:\Users\TEMP\Desktop\LTE用户定位系统10.22单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.NewDevice.resources
+C:\Users\TEMP\Desktop\LTE用户定位系统10.22单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.Properties.Resources.resources
+C:\Users\TEMP\Desktop\LTE用户定位系统10.22单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.csproj.GenerateResource.Cache
+C:\Users\TEMP\Desktop\LTE用户定位系统10.22单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.dll
+C:\Users\TEMP\Desktop\LTE用户定位系统10.22单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.pdb
+D:\实习\C#项目\LTE用户定位系统10.28单用户\OUTPUT\DeviceMangerModule.dll.config
+D:\实习\C#项目\LTE用户定位系统10.28单用户\OUTPUT\DeviceMangerModule.dll
+D:\实习\C#项目\LTE用户定位系统10.28单用户\OUTPUT\DeviceMangerModule.pdb
+D:\实习\C#项目\LTE用户定位系统10.28单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.csprojResolveAssemblyReference.cache
+D:\实习\C#项目\LTE用户定位系统10.28单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceConfiguration.resources
+D:\实习\C#项目\LTE用户定位系统10.28单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceManger.resources
+D:\实习\C#项目\LTE用户定位系统10.28单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.NewDevice.resources
+D:\实习\C#项目\LTE用户定位系统10.28单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.Properties.Resources.resources
+D:\实习\C#项目\LTE用户定位系统10.28单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.csproj.GenerateResource.Cache
+D:\实习\C#项目\LTE用户定位系统10.28单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.dll
+D:\实习\C#项目\LTE用户定位系统10.28单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.pdb
+D:\实习\C#项目\LTE用户定位系统10.30单用户\OUTPUT\DeviceMangerModule.dll.config
+D:\实习\C#项目\LTE用户定位系统10.30单用户\OUTPUT\DeviceMangerModule.dll
+D:\实习\C#项目\LTE用户定位系统10.30单用户\OUTPUT\DeviceMangerModule.pdb
+D:\实习\C#项目\LTE用户定位系统10.30单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.csprojResolveAssemblyReference.cache
+D:\实习\C#项目\LTE用户定位系统10.30单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceConfiguration.resources
+D:\实习\C#项目\LTE用户定位系统10.30单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceManger.resources
+D:\实习\C#项目\LTE用户定位系统10.30单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.NewDevice.resources
+D:\实习\C#项目\LTE用户定位系统10.30单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.Properties.Resources.resources
+D:\实习\C#项目\LTE用户定位系统10.30单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.csproj.GenerateResource.Cache
+D:\实习\C#项目\LTE用户定位系统10.30单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.dll
+D:\实习\C#项目\LTE用户定位系统10.30单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.pdb
+C:\Users\TEMP\Desktop\LTE用户定位系统11.2单用户\OUTPUT\DeviceMangerModule.dll.config
+C:\Users\TEMP\Desktop\LTE用户定位系统11.2单用户\OUTPUT\DeviceMangerModule.dll
+C:\Users\TEMP\Desktop\LTE用户定位系统11.2单用户\OUTPUT\DeviceMangerModule.pdb
+C:\Users\TEMP\Desktop\LTE用户定位系统11.2单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.csprojResolveAssemblyReference.cache
+C:\Users\TEMP\Desktop\LTE用户定位系统11.2单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceConfiguration.resources
+C:\Users\TEMP\Desktop\LTE用户定位系统11.2单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceManger.resources
+C:\Users\TEMP\Desktop\LTE用户定位系统11.2单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.NewDevice.resources
+C:\Users\TEMP\Desktop\LTE用户定位系统11.2单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.Properties.Resources.resources
+C:\Users\TEMP\Desktop\LTE用户定位系统11.2单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.csproj.GenerateResource.Cache
+C:\Users\TEMP\Desktop\LTE用户定位系统11.2单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.dll
+C:\Users\TEMP\Desktop\LTE用户定位系统11.2单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.pdb
+D:\实习\C#项目\LTE用户定位系统11.3单用户\OUTPUT\DeviceMangerModule.dll.config
+D:\实习\C#项目\LTE用户定位系统11.3单用户\OUTPUT\DeviceMangerModule.dll
+D:\实习\C#项目\LTE用户定位系统11.3单用户\OUTPUT\DeviceMangerModule.pdb
+D:\实习\C#项目\LTE用户定位系统11.3单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.csprojResolveAssemblyReference.cache
+D:\实习\C#项目\LTE用户定位系统11.3单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceConfiguration.resources
+D:\实习\C#项目\LTE用户定位系统11.3单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceManger.resources
+D:\实习\C#项目\LTE用户定位系统11.3单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.NewDevice.resources
+D:\实习\C#项目\LTE用户定位系统11.3单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.Properties.Resources.resources
+D:\实习\C#项目\LTE用户定位系统11.3单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.csproj.GenerateResource.Cache
+D:\实习\C#项目\LTE用户定位系统11.3单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.dll
+D:\实习\C#项目\LTE用户定位系统11.3单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.pdb
+D:\实习\C#项目\LTE用户定位系统11.4单用户\OUTPUT\DeviceMangerModule.dll.config
+D:\实习\C#项目\LTE用户定位系统11.4单用户\OUTPUT\DeviceMangerModule.dll
+D:\实习\C#项目\LTE用户定位系统11.4单用户\OUTPUT\DeviceMangerModule.pdb
+D:\实习\C#项目\LTE用户定位系统11.4单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.csprojResolveAssemblyReference.cache
+D:\实习\C#项目\LTE用户定位系统11.4单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceConfiguration.resources
+D:\实习\C#项目\LTE用户定位系统11.4单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceManger.resources
+D:\实习\C#项目\LTE用户定位系统11.4单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.NewDevice.resources
+D:\实习\C#项目\LTE用户定位系统11.4单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.Properties.Resources.resources
+D:\实习\C#项目\LTE用户定位系统11.4单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.csproj.GenerateResource.Cache
+D:\实习\C#项目\LTE用户定位系统11.4单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.dll
+D:\实习\C#项目\LTE用户定位系统11.4单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.pdb
+C:\Users\xiang\Documents\C#项目\LTE用户定位系统12.10单用户\OUTPUT\DeviceMangerModule.XML
+C:\Users\xiang\Documents\C#项目\LTE用户定位系统12.10单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.csprojResolveAssemblyReference.cache
+C:\Users\xiang\Documents\C#项目\LTE用户定位系统12.10单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceConfiguration.resources
+C:\Users\xiang\Documents\C#项目\LTE用户定位系统12.10单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceManger.resources
+C:\Users\xiang\Documents\C#项目\LTE用户定位系统12.10单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.NewDevice.resources
+C:\Users\xiang\Documents\C#项目\LTE用户定位系统12.10单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.Properties.Resources.resources
+C:\Users\xiang\Documents\C#项目\LTE用户定位系统12.10单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.csproj.GenerateResource.Cache
+C:\Users\xiang\Documents\C#项目\LTE用户定位系统12.10单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.dll
+C:\Users\xiang\Documents\C#项目\LTE用户定位系统12.10单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.pdb
+C:\Users\zxw\Desktop\LTE用户定位系统12.10单用户\OUTPUT\DeviceMangerModule.dll.config
+C:\Users\zxw\Desktop\LTE用户定位系统12.10单用户\OUTPUT\DeviceMangerModule.dll
+C:\Users\zxw\Desktop\LTE用户定位系统12.10单用户\OUTPUT\DeviceMangerModule.pdb
+C:\Users\zxw\Desktop\LTE用户定位系统12.10单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.csprojResolveAssemblyReference.cache
+C:\Users\zxw\Desktop\LTE用户定位系统12.10单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceConfiguration.resources
+C:\Users\zxw\Desktop\LTE用户定位系统12.10单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceManger.resources
+C:\Users\zxw\Desktop\LTE用户定位系统12.10单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.NewDevice.resources
+C:\Users\zxw\Desktop\LTE用户定位系统12.10单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.Properties.Resources.resources
+C:\Users\zxw\Desktop\LTE用户定位系统12.10单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.csproj.GenerateResource.Cache
+C:\Users\zxw\Desktop\LTE用户定位系统12.10单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.dll
+C:\Users\zxw\Desktop\LTE用户定位系统12.10单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.pdb
+C:\Users\xiang\Documents\C#项目\LTE用户定位系统12.15单用户\OUTPUT\DeviceMangerModule.dll.config
+C:\Users\xiang\Documents\C#项目\LTE用户定位系统12.15单用户\OUTPUT\DeviceMangerModule.XML
+C:\Users\xiang\Documents\C#项目\LTE用户定位系统12.15单用户\OUTPUT\DeviceMangerModule.dll
+C:\Users\xiang\Documents\C#项目\LTE用户定位系统12.15单用户\OUTPUT\DeviceMangerModule.pdb
+C:\Users\xiang\Documents\C#项目\LTE用户定位系统12.15单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.csprojResolveAssemblyReference.cache
+C:\Users\xiang\Documents\C#项目\LTE用户定位系统12.15单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceConfiguration.resources
+C:\Users\xiang\Documents\C#项目\LTE用户定位系统12.15单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.DeviceManger.resources
+C:\Users\xiang\Documents\C#项目\LTE用户定位系统12.15单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.NewDevice.resources
+C:\Users\xiang\Documents\C#项目\LTE用户定位系统12.15单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.Properties.Resources.resources
+C:\Users\xiang\Documents\C#项目\LTE用户定位系统12.15单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.csproj.GenerateResource.Cache
+C:\Users\xiang\Documents\C#项目\LTE用户定位系统12.15单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.dll
+C:\Users\xiang\Documents\C#项目\LTE用户定位系统12.15单用户\DeviceMangerModule\obj\Debug\DeviceMangerModule.pdb

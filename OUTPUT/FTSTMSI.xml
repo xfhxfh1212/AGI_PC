@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="gb2312"?>
+<FTSTMSI>
+  <STMSI Value="44E9C48335" />
+  <Earfcn Value="37900" />
+  <MesThresholdText Value="30" />
+  <CheckBox1 Value="false" />
+  <CheckBox2 Value="true" />
+  <CheckBox3 Value="false" />
+  <EffectiveTimeText Value="6" />
+</FTSTMSI>

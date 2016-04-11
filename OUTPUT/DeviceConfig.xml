@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DeviceConfiguration>
+  <Device name="设备0010" ImageKey="disconnect.ico" InterfaceType="LAN">
+    <IpAddress>192.168.7.10</IpAddress>
+    <DataPortNum>3333</DataPortNum>
+    <MessagePortNum>3334</MessagePortNum>
+    <LteMode>TDD</LteMode>
+    <OutputDataType>IQ</OutputDataType>
+    <DataStoreMode>ExternalStroe</DataStoreMode>
+    <DataStoreTime>0</DataStoreTime>
+    <SaveDataType>CSV</SaveDataType>
+  </Device>
+  <Device name="设备0028" ImageKey="disconnect.ico" InterfaceType="LAN">
+    <IpAddress>192.168.7.28</IpAddress>
+    <DataPortNum>3333</DataPortNum>
+    <MessagePortNum>3334</MessagePortNum>
+    <LteMode>TDD</LteMode>
+    <OutputDataType>IQ</OutputDataType>
+    <DataStoreMode>ExternalStroe</DataStoreMode>
+    <DataStoreTime>0</DataStoreTime>
+    <SaveDataType>CSV</SaveDataType>
+  </Device>
+</DeviceConfiguration>

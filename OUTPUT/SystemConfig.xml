@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="gb2312"?>
+<SystemConfig>
+  <Config>
+    <SmsModCB Value="1" />
+    <CenterCode Value="13800100500" />
+    <TestMessageSendTime Value="30" />
+    <PingTime Value="3" />
+    <TestMessage Value="test" />
+    <OriRefreshTime Value="6" />
+    <SINRThreshold Value="-10" />
+    <UeSilenceCheckTimer Value="18" />
+    <RxAntNum Value="2" />
+    <OPInformation>
+      <CMCC>
+        <Item>
+          <Band Value="38" />
+          <Freq Value="2585" />
+          <Earfcn Value="37900" />
+        </Item>
+        <Item>
+          <Band Value="38" />
+          <Freq Value="2605" />
+          <Earfcn Value="38100" />
+        </Item>
+        <Item>
+          <Band Value="39" />
+          <Freq Value="1895" />
+          <Earfcn Value="38400" />
+        </Item>
+        <Item>
+          <Band Value="40" />
+          <Freq Value="2330" />
+          <Earfcn Value="38950" />
+        </Item>
+        <Item>
+          <Band Value="41" />
+          <Freq Value="2624.6" />
+          <Earfcn Value="40936" />
+        </Item>
+      </CMCC>
+      <CUCC>
+        <Item>
+          <Band Value="3" />
+          <Freq Value="1850" />
+          <Earfcn Value="1650" />
+        </Item>
+        <Item>
+          <Band Value="3" />
+          <Freq Value="1875" />
+          <Earfcn Value="1900" />
+        </Item>
+        <Item>
+          <Band Value="3" />
+          <Freq Value="1865" />
+          <Earfcn Value="1800" />
+        </Item>
+      </CUCC>
+      <CTCC>
+        <Item>
+          <Band Value="3" />
+          <Freq Value="1867.5" />
+          <Earfcn Value="1825" />
+        </Item>
+        <Item>
+          <Band Value="41" />
+          <Freq Value="2645" />
+          <Earfcn Value="41140" />
+        </Item>
+      </CTCC>
+    </OPInformation>
+  </Config>
+</SystemConfig>

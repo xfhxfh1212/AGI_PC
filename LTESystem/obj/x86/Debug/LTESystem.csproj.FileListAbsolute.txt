@@ -1,0 +1,392 @@
+D:\赵博项目\LTE用户定位系统\LTESystem\bin\Debug\LTESystem.exe
+D:\赵博项目\LTE用户定位系统\LTESystem\bin\Debug\LTESystem.pdb
+D:\赵博项目\LTE用户定位系统\LTESystem\bin\Debug\Common.dll
+D:\赵博项目\LTE用户定位系统\LTESystem\bin\Debug\Common.pdb
+D:\赵博项目\LTE用户定位系统\LTESystem\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\赵博项目\LTE用户定位系统\LTESystem\obj\x86\Debug\LTESystem.frmLTESystem.resources
+D:\赵博项目\LTE用户定位系统\LTESystem\obj\x86\Debug\LTESystem.Login.resources
+D:\赵博项目\LTE用户定位系统\LTESystem\obj\x86\Debug\LTESystem.Properties.Resources.resources
+D:\赵博项目\LTE用户定位系统\LTESystem\obj\x86\Debug\LTESystem.Register.resources
+D:\赵博项目\LTE用户定位系统\LTESystem\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\赵博项目\LTE用户定位系统\LTESystem\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\赵博项目\LTE用户定位系统\LTESystem\obj\x86\Debug\LTESystem.exe
+D:\赵博项目\LTE用户定位系统\LTESystem\obj\x86\Debug\LTESystem.pdb
+D:\赵博项目\LTE用户定位系统\LTESystem\bin\Debug\AGIInterface.dll
+D:\赵博项目\LTE用户定位系统\LTESystem\bin\Debug\AGIInterface.pdb
+D:\赵博项目\LTE用户定位系统\LTESystem\bin\Debug\DeviceMangerModule.dll
+D:\赵博项目\LTE用户定位系统\LTESystem\bin\Debug\Plugin.dll
+D:\赵博项目\LTE用户定位系统\LTESystem\bin\Debug\DeviceMangerModule.pdb
+D:\赵博项目\LTE用户定位系统\LTESystem\bin\Debug\Plugin.pdb
+D:\赵博项目\LTE用户定位系统\LTESystem\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\赵博项目\LTE用户定位系统\OUTPUT\LTESystem.exe
+D:\赵博项目\LTE用户定位系统\OUTPUT\LTESystem.pdb
+C:\Users\zxw\Desktop\LTE用户定位系统\LTESystem\obj\x86\Debug\LTESystem.csprojResolveAssemblyReference.cache
+C:\Users\zxw\Desktop\LTE用户定位系统\LTESystem\obj\x86\Debug\LTESystem.frmLTESystem.resources
+C:\Users\zxw\Desktop\LTE用户定位系统\LTESystem\obj\x86\Debug\LTESystem.Login.resources
+C:\Users\zxw\Desktop\LTE用户定位系统\LTESystem\obj\x86\Debug\LTESystem.Properties.Resources.resources
+C:\Users\zxw\Desktop\LTE用户定位系统\LTESystem\obj\x86\Debug\LTESystem.Register.resources
+C:\Users\zxw\Desktop\LTE用户定位系统\LTESystem\obj\x86\Debug\LTESystem.csproj.GenerateResource.Cache
+C:\Users\zxw\Desktop\LTE用户定位系统\OUTPUT\LTESystem.exe
+C:\Users\zxw\Desktop\LTE用户定位系统\OUTPUT\LTESystem.pdb
+C:\Users\zxw\Desktop\LTE用户定位系统\LTESystem\obj\x86\Debug\LTESystem.exe
+C:\Users\zxw\Desktop\LTE用户定位系统\LTESystem\obj\x86\Debug\LTESystem.pdb
+C:\Users\zxw\Desktop\LTE用户定位系统 - 副本\OUTPUT\LTESystem.exe
+C:\Users\zxw\Desktop\LTE用户定位系统 - 副本\OUTPUT\LTESystem.pdb
+C:\Users\zxw\Desktop\LTE用户定位系统 - 副本\LTESystem\obj\x86\Debug\LTESystem.csprojResolveAssemblyReference.cache
+C:\Users\zxw\Desktop\LTE用户定位系统 - 副本\LTESystem\obj\x86\Debug\LTESystem.frmLTESystem.resources
+C:\Users\zxw\Desktop\LTE用户定位系统 - 副本\LTESystem\obj\x86\Debug\LTESystem.Login.resources
+C:\Users\zxw\Desktop\LTE用户定位系统 - 副本\LTESystem\obj\x86\Debug\LTESystem.Properties.Resources.resources
+C:\Users\zxw\Desktop\LTE用户定位系统 - 副本\LTESystem\obj\x86\Debug\LTESystem.Register.resources
+C:\Users\zxw\Desktop\LTE用户定位系统 - 副本\LTESystem\obj\x86\Debug\LTESystem.csproj.GenerateResource.Cache
+C:\Users\zxw\Desktop\LTE用户定位系统 - 副本\LTESystem\obj\x86\Debug\LTESystem.exe
+C:\Users\zxw\Desktop\LTE用户定位系统 - 副本\LTESystem\obj\x86\Debug\LTESystem.pdb
+C:\Users\zxw\Desktop\LTE用户定位系统 - 副本 - 副本\OUTPUT\LTESystem.exe
+C:\Users\zxw\Desktop\LTE用户定位系统 - 副本 - 副本\OUTPUT\LTESystem.pdb
+C:\Users\zxw\Desktop\LTE用户定位系统 - 副本 - 副本\LTESystem\obj\x86\Debug\LTESystem.csprojResolveAssemblyReference.cache
+C:\Users\zxw\Desktop\LTE用户定位系统 - 副本 - 副本\LTESystem\obj\x86\Debug\LTESystem.frmLTESystem.resources
+C:\Users\zxw\Desktop\LTE用户定位系统 - 副本 - 副本\LTESystem\obj\x86\Debug\LTESystem.Login.resources
+C:\Users\zxw\Desktop\LTE用户定位系统 - 副本 - 副本\LTESystem\obj\x86\Debug\LTESystem.Properties.Resources.resources
+C:\Users\zxw\Desktop\LTE用户定位系统 - 副本 - 副本\LTESystem\obj\x86\Debug\LTESystem.Register.resources
+C:\Users\zxw\Desktop\LTE用户定位系统 - 副本 - 副本\LTESystem\obj\x86\Debug\LTESystem.csproj.GenerateResource.Cache
+C:\Users\zxw\Desktop\LTE用户定位系统 - 副本 - 副本\LTESystem\obj\x86\Debug\LTESystem.exe
+C:\Users\zxw\Desktop\LTE用户定位系统 - 副本 - 副本\LTESystem\obj\x86\Debug\LTESystem.pdb
+C:\Users\zxw\Desktop\LTE用户定位系统-副本-副本\OUTPUT\LTESystem.exe
+C:\Users\zxw\Desktop\LTE用户定位系统-副本-副本\OUTPUT\LTESystem.pdb
+C:\Users\zxw\Desktop\LTE用户定位系统-副本-副本\LTESystem\obj\x86\Debug\LTESystem.csprojResolveAssemblyReference.cache
+C:\Users\zxw\Desktop\LTE用户定位系统-副本-副本\LTESystem\obj\x86\Debug\LTESystem.frmLTESystem.resources
+C:\Users\zxw\Desktop\LTE用户定位系统-副本-副本\LTESystem\obj\x86\Debug\LTESystem.Login.resources
+C:\Users\zxw\Desktop\LTE用户定位系统-副本-副本\LTESystem\obj\x86\Debug\LTESystem.Properties.Resources.resources
+C:\Users\zxw\Desktop\LTE用户定位系统-副本-副本\LTESystem\obj\x86\Debug\LTESystem.Register.resources
+C:\Users\zxw\Desktop\LTE用户定位系统-副本-副本\LTESystem\obj\x86\Debug\LTESystem.csproj.GenerateResource.Cache
+C:\Users\zxw\Desktop\LTE用户定位系统-副本-副本\LTESystem\obj\x86\Debug\LTESystem.exe
+C:\Users\zxw\Desktop\LTE用户定位系统-副本-副本\LTESystem\obj\x86\Debug\LTESystem.pdb
+C:\Users\xfh\Desktop\LTE用户定位系统-副本-副本\OUTPUT\LTESystem.exe
+C:\Users\xfh\Desktop\LTE用户定位系统-副本-副本\OUTPUT\LTESystem.pdb
+C:\Users\xfh\Desktop\LTE用户定位系统-副本-副本\LTESystem\obj\x86\Debug\LTESystem.csprojResolveAssemblyReference.cache
+C:\Users\xfh\Desktop\LTE用户定位系统-副本-副本\LTESystem\obj\x86\Debug\LTESystem.frmLTESystem.resources
+C:\Users\xfh\Desktop\LTE用户定位系统-副本-副本\LTESystem\obj\x86\Debug\LTESystem.Login.resources
+C:\Users\xfh\Desktop\LTE用户定位系统-副本-副本\LTESystem\obj\x86\Debug\LTESystem.Properties.Resources.resources
+C:\Users\xfh\Desktop\LTE用户定位系统-副本-副本\LTESystem\obj\x86\Debug\LTESystem.Register.resources
+C:\Users\xfh\Desktop\LTE用户定位系统-副本-副本\LTESystem\obj\x86\Debug\LTESystem.csproj.GenerateResource.Cache
+C:\Users\xfh\Desktop\LTE用户定位系统-副本-副本\LTESystem\obj\x86\Debug\LTESystem.exe
+C:\Users\xfh\Desktop\LTE用户定位系统-副本-副本\LTESystem\obj\x86\Debug\LTESystem.pdb
+C:\Users\xfh\Desktop\LTE用户定位系统-\OUTPUT\LTESystem.exe
+C:\Users\xfh\Desktop\LTE用户定位系统-\OUTPUT\LTESystem.pdb
+C:\Users\xfh\Desktop\LTE用户定位系统-\LTESystem\obj\x86\Debug\LTESystem.csprojResolveAssemblyReference.cache
+C:\Users\xfh\Desktop\LTE用户定位系统-\LTESystem\obj\x86\Debug\LTESystem.frmLTESystem.resources
+C:\Users\xfh\Desktop\LTE用户定位系统-\LTESystem\obj\x86\Debug\LTESystem.Login.resources
+C:\Users\xfh\Desktop\LTE用户定位系统-\LTESystem\obj\x86\Debug\LTESystem.Properties.Resources.resources
+C:\Users\xfh\Desktop\LTE用户定位系统-\LTESystem\obj\x86\Debug\LTESystem.Register.resources
+C:\Users\xfh\Desktop\LTE用户定位系统-\LTESystem\obj\x86\Debug\LTESystem.csproj.GenerateResource.Cache
+C:\Users\xfh\Desktop\LTE用户定位系统-\LTESystem\obj\x86\Debug\LTESystem.exe
+C:\Users\xfh\Desktop\LTE用户定位系统-\LTESystem\obj\x86\Debug\LTESystem.pdb
+C:\Users\xfh\Desktop\LTE用户定位系统 - 7.6\OUTPUT\LTESystem.exe
+C:\Users\xfh\Desktop\LTE用户定位系统 - 7.6\OUTPUT\LTESystem.pdb
+C:\Users\xfh\Desktop\LTE用户定位系统 - 7.6\LTESystem\obj\x86\Debug\LTESystem.csprojResolveAssemblyReference.cache
+C:\Users\xfh\Desktop\LTE用户定位系统 - 7.6\LTESystem\obj\x86\Debug\LTESystem.frmLTESystem.resources
+C:\Users\xfh\Desktop\LTE用户定位系统 - 7.6\LTESystem\obj\x86\Debug\LTESystem.Login.resources
+C:\Users\xfh\Desktop\LTE用户定位系统 - 7.6\LTESystem\obj\x86\Debug\LTESystem.Properties.Resources.resources
+C:\Users\xfh\Desktop\LTE用户定位系统 - 7.6\LTESystem\obj\x86\Debug\LTESystem.Register.resources
+C:\Users\xfh\Desktop\LTE用户定位系统 - 7.6\LTESystem\obj\x86\Debug\LTESystem.csproj.GenerateResource.Cache
+C:\Users\xfh\Desktop\LTE用户定位系统 - 7.6\LTESystem\obj\x86\Debug\LTESystem.exe
+C:\Users\xfh\Desktop\LTE用户定位系统 - 7.6\LTESystem\obj\x86\Debug\LTESystem.pdb
+D:\项目\LTE用户定位系统 - 7.6\OUTPUT\LTESystem.exe
+D:\项目\LTE用户定位系统 - 7.6\OUTPUT\LTESystem.pdb
+D:\项目\LTE用户定位系统 - 7.6\LTESystem\obj\x86\Debug\LTESystem.csprojResolveAssemblyReference.cache
+D:\项目\LTE用户定位系统 - 7.6\LTESystem\obj\x86\Debug\LTESystem.frmLTESystem.resources
+D:\项目\LTE用户定位系统 - 7.6\LTESystem\obj\x86\Debug\LTESystem.Login.resources
+D:\项目\LTE用户定位系统 - 7.6\LTESystem\obj\x86\Debug\LTESystem.Properties.Resources.resources
+D:\项目\LTE用户定位系统 - 7.6\LTESystem\obj\x86\Debug\LTESystem.Register.resources
+D:\项目\LTE用户定位系统 - 7.6\LTESystem\obj\x86\Debug\LTESystem.csproj.GenerateResource.Cache
+D:\项目\LTE用户定位系统 - 7.6\LTESystem\obj\x86\Debug\LTESystem.exe
+D:\项目\LTE用户定位系统 - 7.6\LTESystem\obj\x86\Debug\LTESystem.pdb
+C:\Users\zxw\Desktop\LTE用户定位系统 - 7.6\OUTPUT\LTESystem.exe
+C:\Users\zxw\Desktop\LTE用户定位系统 - 7.6\OUTPUT\LTESystem.pdb
+C:\Users\zxw\Desktop\LTE用户定位系统 - 7.6\LTESystem\obj\x86\Debug\LTESystem.csprojResolveAssemblyReference.cache
+C:\Users\zxw\Desktop\LTE用户定位系统 - 7.6\LTESystem\obj\x86\Debug\LTESystem.frmLTESystem.resources
+C:\Users\zxw\Desktop\LTE用户定位系统 - 7.6\LTESystem\obj\x86\Debug\LTESystem.Login.resources
+C:\Users\zxw\Desktop\LTE用户定位系统 - 7.6\LTESystem\obj\x86\Debug\LTESystem.Properties.Resources.resources
+C:\Users\zxw\Desktop\LTE用户定位系统 - 7.6\LTESystem\obj\x86\Debug\LTESystem.Register.resources
+C:\Users\zxw\Desktop\LTE用户定位系统 - 7.6\LTESystem\obj\x86\Debug\LTESystem.csproj.GenerateResource.Cache
+C:\Users\zxw\Desktop\LTE用户定位系统 - 7.6\LTESystem\obj\x86\Debug\LTESystem.exe
+C:\Users\zxw\Desktop\LTE用户定位系统 - 7.6\LTESystem\obj\x86\Debug\LTESystem.pdb
+C:\Users\xfh\Desktop\LTE用户定位系统8.6\OUTPUT\LTESystem.exe
+C:\Users\xfh\Desktop\LTE用户定位系统8.6\OUTPUT\LTESystem.pdb
+C:\Users\xfh\Desktop\LTE用户定位系统8.6\LTESystem\obj\x86\Debug\LTESystem.csprojResolveAssemblyReference.cache
+C:\Users\xfh\Desktop\LTE用户定位系统8.6\LTESystem\obj\x86\Debug\LTESystem.frmLTESystem.resources
+C:\Users\xfh\Desktop\LTE用户定位系统8.6\LTESystem\obj\x86\Debug\LTESystem.Login.resources
+C:\Users\xfh\Desktop\LTE用户定位系统8.6\LTESystem\obj\x86\Debug\LTESystem.Properties.Resources.resources
+C:\Users\xfh\Desktop\LTE用户定位系统8.6\LTESystem\obj\x86\Debug\LTESystem.Register.resources
+C:\Users\xfh\Desktop\LTE用户定位系统8.6\LTESystem\obj\x86\Debug\LTESystem.csproj.GenerateResource.Cache
+C:\Users\xfh\Desktop\LTE用户定位系统8.6\LTESystem\obj\x86\Debug\LTESystem.exe
+C:\Users\xfh\Desktop\LTE用户定位系统8.6\LTESystem\obj\x86\Debug\LTESystem.pdb
+D:\实习\C#项目\LTE用户定位系统8.8\OUTPUT\LTESystem.exe
+D:\实习\C#项目\LTE用户定位系统8.8\OUTPUT\LTESystem.pdb
+D:\实习\C#项目\LTE用户定位系统8.8\LTESystem\obj\x86\Debug\LTESystem.csprojResolveAssemblyReference.cache
+D:\实习\C#项目\LTE用户定位系统8.8\LTESystem\obj\x86\Debug\LTESystem.frmLTESystem.resources
+D:\实习\C#项目\LTE用户定位系统8.8\LTESystem\obj\x86\Debug\LTESystem.Login.resources
+D:\实习\C#项目\LTE用户定位系统8.8\LTESystem\obj\x86\Debug\LTESystem.Properties.Resources.resources
+D:\实习\C#项目\LTE用户定位系统8.8\LTESystem\obj\x86\Debug\LTESystem.Register.resources
+D:\实习\C#项目\LTE用户定位系统8.8\LTESystem\obj\x86\Debug\LTESystem.csproj.GenerateResource.Cache
+D:\实习\C#项目\LTE用户定位系统8.8\LTESystem\obj\x86\Debug\LTESystem.exe
+D:\实习\C#项目\LTE用户定位系统8.8\LTESystem\obj\x86\Debug\LTESystem.pdb
+D:\实习\C#项目\LTE用户定位系统8.19\OUTPUT\LTESystem.exe
+D:\实习\C#项目\LTE用户定位系统8.19\OUTPUT\LTESystem.pdb
+D:\实习\C#项目\LTE用户定位系统8.19\LTESystem\obj\x86\Debug\LTESystem.csprojResolveAssemblyReference.cache
+D:\实习\C#项目\LTE用户定位系统8.19\LTESystem\obj\x86\Debug\LTESystem.frmLTESystem.resources
+D:\实习\C#项目\LTE用户定位系统8.19\LTESystem\obj\x86\Debug\LTESystem.Login.resources
+D:\实习\C#项目\LTE用户定位系统8.19\LTESystem\obj\x86\Debug\LTESystem.Properties.Resources.resources
+D:\实习\C#项目\LTE用户定位系统8.19\LTESystem\obj\x86\Debug\LTESystem.Register.resources
+D:\实习\C#项目\LTE用户定位系统8.19\LTESystem\obj\x86\Debug\LTESystem.csproj.GenerateResource.Cache
+D:\实习\C#项目\LTE用户定位系统8.19\LTESystem\obj\x86\Debug\LTESystem.exe
+D:\实习\C#项目\LTE用户定位系统8.19\LTESystem\obj\x86\Debug\LTESystem.pdb
+C:\Users\xfh\Desktop\LTE用户定位系统8.19\OUTPUT\LTESystem.exe
+C:\Users\xfh\Desktop\LTE用户定位系统8.19\OUTPUT\LTESystem.pdb
+C:\Users\xfh\Desktop\LTE用户定位系统8.19\LTESystem\obj\x86\Debug\LTESystem.csprojResolveAssemblyReference.cache
+C:\Users\xfh\Desktop\LTE用户定位系统8.19\LTESystem\obj\x86\Debug\LTESystem.frmLTESystem.resources
+C:\Users\xfh\Desktop\LTE用户定位系统8.19\LTESystem\obj\x86\Debug\LTESystem.Login.resources
+C:\Users\xfh\Desktop\LTE用户定位系统8.19\LTESystem\obj\x86\Debug\LTESystem.Properties.Resources.resources
+C:\Users\xfh\Desktop\LTE用户定位系统8.19\LTESystem\obj\x86\Debug\LTESystem.Register.resources
+C:\Users\xfh\Desktop\LTE用户定位系统8.19\LTESystem\obj\x86\Debug\LTESystem.csproj.GenerateResource.Cache
+C:\Users\xfh\Desktop\LTE用户定位系统8.19\LTESystem\obj\x86\Debug\LTESystem.exe
+C:\Users\xfh\Desktop\LTE用户定位系统8.19\LTESystem\obj\x86\Debug\LTESystem.pdb
+D:\实习\C#项目\LTE用户定位系统8.22\OUTPUT\LTESystem.exe
+D:\实习\C#项目\LTE用户定位系统8.22\OUTPUT\LTESystem.pdb
+D:\实习\C#项目\LTE用户定位系统8.22\LTESystem\obj\x86\Debug\LTESystem.csprojResolveAssemblyReference.cache
+D:\实习\C#项目\LTE用户定位系统8.22\LTESystem\obj\x86\Debug\LTESystem.frmLTESystem.resources
+D:\实习\C#项目\LTE用户定位系统8.22\LTESystem\obj\x86\Debug\LTESystem.Login.resources
+D:\实习\C#项目\LTE用户定位系统8.22\LTESystem\obj\x86\Debug\LTESystem.Properties.Resources.resources
+D:\实习\C#项目\LTE用户定位系统8.22\LTESystem\obj\x86\Debug\LTESystem.Register.resources
+D:\实习\C#项目\LTE用户定位系统8.22\LTESystem\obj\x86\Debug\LTESystem.csproj.GenerateResource.Cache
+D:\实习\C#项目\LTE用户定位系统8.22\LTESystem\obj\x86\Debug\LTESystem.exe
+D:\实习\C#项目\LTE用户定位系统8.22\LTESystem\obj\x86\Debug\LTESystem.pdb
+C:\Users\xfh\Desktop\LTE用户定位系统8.28单用户\OUTPUT\LTESystem.exe
+C:\Users\xfh\Desktop\LTE用户定位系统8.28单用户\OUTPUT\LTESystem.pdb
+C:\Users\xfh\Desktop\LTE用户定位系统8.28单用户\LTESystem\obj\x86\Debug\LTESystem.csprojResolveAssemblyReference.cache
+C:\Users\xfh\Desktop\LTE用户定位系统8.28单用户\LTESystem\obj\x86\Debug\LTESystem.frmLTESystem.resources
+C:\Users\xfh\Desktop\LTE用户定位系统8.28单用户\LTESystem\obj\x86\Debug\LTESystem.Login.resources
+C:\Users\xfh\Desktop\LTE用户定位系统8.28单用户\LTESystem\obj\x86\Debug\LTESystem.Properties.Resources.resources
+C:\Users\xfh\Desktop\LTE用户定位系统8.28单用户\LTESystem\obj\x86\Debug\LTESystem.Register.resources
+C:\Users\xfh\Desktop\LTE用户定位系统8.28单用户\LTESystem\obj\x86\Debug\LTESystem.csproj.GenerateResource.Cache
+C:\Users\xfh\Desktop\LTE用户定位系统8.28单用户\LTESystem\obj\x86\Debug\LTESystem.exe
+C:\Users\xfh\Desktop\LTE用户定位系统8.28单用户\LTESystem\obj\x86\Debug\LTESystem.pdb
+C:\Users\xfh\Desktop\LTE用户定位系统8.28单用户 - 副本\OUTPUT\LTESystem.exe
+C:\Users\xfh\Desktop\LTE用户定位系统8.28单用户 - 副本\OUTPUT\LTESystem.pdb
+C:\Users\xfh\Desktop\LTE用户定位系统8.28单用户 - 副本\LTESystem\obj\x86\Debug\LTESystem.csprojResolveAssemblyReference.cache
+C:\Users\xfh\Desktop\LTE用户定位系统8.28单用户 - 副本\LTESystem\obj\x86\Debug\LTESystem.frmLTESystem.resources
+C:\Users\xfh\Desktop\LTE用户定位系统8.28单用户 - 副本\LTESystem\obj\x86\Debug\LTESystem.Login.resources
+C:\Users\xfh\Desktop\LTE用户定位系统8.28单用户 - 副本\LTESystem\obj\x86\Debug\LTESystem.Properties.Resources.resources
+C:\Users\xfh\Desktop\LTE用户定位系统8.28单用户 - 副本\LTESystem\obj\x86\Debug\LTESystem.Register.resources
+C:\Users\xfh\Desktop\LTE用户定位系统8.28单用户 - 副本\LTESystem\obj\x86\Debug\LTESystem.csproj.GenerateResource.Cache
+C:\Users\xfh\Desktop\LTE用户定位系统8.28单用户 - 副本\LTESystem\obj\x86\Debug\LTESystem.exe
+C:\Users\xfh\Desktop\LTE用户定位系统8.28单用户 - 副本\LTESystem\obj\x86\Debug\LTESystem.pdb
+D:\实习\C#项目\LTE用户定位系统9.1单用户\OUTPUT\LTESystem.exe
+D:\实习\C#项目\LTE用户定位系统9.1单用户\OUTPUT\LTESystem.pdb
+D:\实习\C#项目\LTE用户定位系统9.1单用户\LTESystem\obj\x86\Debug\LTESystem.csprojResolveAssemblyReference.cache
+D:\实习\C#项目\LTE用户定位系统9.1单用户\LTESystem\obj\x86\Debug\LTESystem.frmLTESystem.resources
+D:\实习\C#项目\LTE用户定位系统9.1单用户\LTESystem\obj\x86\Debug\LTESystem.Login.resources
+D:\实习\C#项目\LTE用户定位系统9.1单用户\LTESystem\obj\x86\Debug\LTESystem.Properties.Resources.resources
+D:\实习\C#项目\LTE用户定位系统9.1单用户\LTESystem\obj\x86\Debug\LTESystem.Register.resources
+D:\实习\C#项目\LTE用户定位系统9.1单用户\LTESystem\obj\x86\Debug\LTESystem.csproj.GenerateResource.Cache
+D:\实习\C#项目\LTE用户定位系统9.1单用户\LTESystem\obj\x86\Debug\LTESystem.exe
+D:\实习\C#项目\LTE用户定位系统9.1单用户\LTESystem\obj\x86\Debug\LTESystem.pdb
+C:\Users\zxw\Desktop\LTE用户定位系统9.1单用户\OUTPUT\LTESystem.exe
+C:\Users\zxw\Desktop\LTE用户定位系统9.1单用户\OUTPUT\LTESystem.pdb
+C:\Users\zxw\Desktop\LTE用户定位系统9.1单用户\LTESystem\obj\x86\Debug\LTESystem.csprojResolveAssemblyReference.cache
+C:\Users\zxw\Desktop\LTE用户定位系统9.1单用户\LTESystem\obj\x86\Debug\LTESystem.frmLTESystem.resources
+C:\Users\zxw\Desktop\LTE用户定位系统9.1单用户\LTESystem\obj\x86\Debug\LTESystem.Login.resources
+C:\Users\zxw\Desktop\LTE用户定位系统9.1单用户\LTESystem\obj\x86\Debug\LTESystem.Properties.Resources.resources
+C:\Users\zxw\Desktop\LTE用户定位系统9.1单用户\LTESystem\obj\x86\Debug\LTESystem.Register.resources
+C:\Users\zxw\Desktop\LTE用户定位系统9.1单用户\LTESystem\obj\x86\Debug\LTESystem.csproj.GenerateResource.Cache
+C:\Users\zxw\Desktop\LTE用户定位系统9.1单用户\LTESystem\obj\x86\Debug\LTESystem.exe
+C:\Users\zxw\Desktop\LTE用户定位系统9.1单用户\LTESystem\obj\x86\Debug\LTESystem.pdb
+D:\实习\C#项目\LTE用户定位系统9.13单用户\OUTPUT\LTESystem.exe
+D:\实习\C#项目\LTE用户定位系统9.13单用户\OUTPUT\LTESystem.pdb
+D:\实习\C#项目\LTE用户定位系统9.13单用户\LTESystem\obj\x86\Debug\LTESystem.csprojResolveAssemblyReference.cache
+D:\实习\C#项目\LTE用户定位系统9.13单用户\LTESystem\obj\x86\Debug\LTESystem.frmLTESystem.resources
+D:\实习\C#项目\LTE用户定位系统9.13单用户\LTESystem\obj\x86\Debug\LTESystem.Login.resources
+D:\实习\C#项目\LTE用户定位系统9.13单用户\LTESystem\obj\x86\Debug\LTESystem.Properties.Resources.resources
+D:\实习\C#项目\LTE用户定位系统9.13单用户\LTESystem\obj\x86\Debug\LTESystem.Register.resources
+D:\实习\C#项目\LTE用户定位系统9.13单用户\LTESystem\obj\x86\Debug\LTESystem.csproj.GenerateResource.Cache
+D:\实习\C#项目\LTE用户定位系统9.13单用户\LTESystem\obj\x86\Debug\LTESystem.exe
+D:\实习\C#项目\LTE用户定位系统9.13单用户\LTESystem\obj\x86\Debug\LTESystem.pdb
+D:\实习\C#项目\LTE用户定位系统9.21单用户\OUTPUT\LTESystem.exe
+D:\实习\C#项目\LTE用户定位系统9.21单用户\OUTPUT\LTESystem.pdb
+D:\实习\C#项目\LTE用户定位系统9.21单用户\LTESystem\obj\x86\Debug\LTESystem.csprojResolveAssemblyReference.cache
+D:\实习\C#项目\LTE用户定位系统9.21单用户\LTESystem\obj\x86\Debug\LTESystem.frmLTESystem.resources
+D:\实习\C#项目\LTE用户定位系统9.21单用户\LTESystem\obj\x86\Debug\LTESystem.Login.resources
+D:\实习\C#项目\LTE用户定位系统9.21单用户\LTESystem\obj\x86\Debug\LTESystem.Properties.Resources.resources
+D:\实习\C#项目\LTE用户定位系统9.21单用户\LTESystem\obj\x86\Debug\LTESystem.Register.resources
+D:\实习\C#项目\LTE用户定位系统9.21单用户\LTESystem\obj\x86\Debug\LTESystem.csproj.GenerateResource.Cache
+D:\实习\C#项目\LTE用户定位系统9.21单用户\LTESystem\obj\x86\Debug\LTESystem.exe
+D:\实习\C#项目\LTE用户定位系统9.21单用户\LTESystem\obj\x86\Debug\LTESystem.pdb
+D:\实习\C#项目\LTE用户定位系统9.27单用户\OUTPUT\LTESystem.exe
+D:\实习\C#项目\LTE用户定位系统9.27单用户\OUTPUT\LTESystem.pdb
+D:\实习\C#项目\LTE用户定位系统9.27单用户\LTESystem\obj\x86\Debug\LTESystem.csprojResolveAssemblyReference.cache
+D:\实习\C#项目\LTE用户定位系统9.27单用户\LTESystem\obj\x86\Debug\LTESystem.frmLTESystem.resources
+D:\实习\C#项目\LTE用户定位系统9.27单用户\LTESystem\obj\x86\Debug\LTESystem.Login.resources
+D:\实习\C#项目\LTE用户定位系统9.27单用户\LTESystem\obj\x86\Debug\LTESystem.Properties.Resources.resources
+D:\实习\C#项目\LTE用户定位系统9.27单用户\LTESystem\obj\x86\Debug\LTESystem.Register.resources
+D:\实习\C#项目\LTE用户定位系统9.27单用户\LTESystem\obj\x86\Debug\LTESystem.csproj.GenerateResource.Cache
+D:\实习\C#项目\LTE用户定位系统9.27单用户\LTESystem\obj\x86\Debug\LTESystem.exe
+D:\实习\C#项目\LTE用户定位系统9.27单用户\LTESystem\obj\x86\Debug\LTESystem.pdb
+C:\Users\zxw\Desktop\LTE用户定位系统10.1单用户\OUTPUT\LTESystem.exe
+C:\Users\zxw\Desktop\LTE用户定位系统10.1单用户\OUTPUT\LTESystem.pdb
+C:\Users\zxw\Desktop\LTE用户定位系统10.1单用户\LTESystem\obj\x86\Debug\LTESystem.csprojResolveAssemblyReference.cache
+C:\Users\zxw\Desktop\LTE用户定位系统10.1单用户\LTESystem\obj\x86\Debug\LTESystem.frmLTESystem.resources
+C:\Users\zxw\Desktop\LTE用户定位系统10.1单用户\LTESystem\obj\x86\Debug\LTESystem.Login.resources
+C:\Users\zxw\Desktop\LTE用户定位系统10.1单用户\LTESystem\obj\x86\Debug\LTESystem.Properties.Resources.resources
+C:\Users\zxw\Desktop\LTE用户定位系统10.1单用户\LTESystem\obj\x86\Debug\LTESystem.Register.resources
+C:\Users\zxw\Desktop\LTE用户定位系统10.1单用户\LTESystem\obj\x86\Debug\LTESystem.csproj.GenerateResource.Cache
+C:\Users\zxw\Desktop\LTE用户定位系统10.1单用户\LTESystem\obj\x86\Debug\LTESystem.exe
+C:\Users\zxw\Desktop\LTE用户定位系统10.1单用户\LTESystem\obj\x86\Debug\LTESystem.pdb
+D:\实习\C#项目\LTE用户定位系统10.1单用户\OUTPUT\LTESystem.exe
+D:\实习\C#项目\LTE用户定位系统10.1单用户\OUTPUT\LTESystem.pdb
+D:\实习\C#项目\LTE用户定位系统10.1单用户\LTESystem\obj\x86\Debug\LTESystem.csprojResolveAssemblyReference.cache
+D:\实习\C#项目\LTE用户定位系统10.1单用户\LTESystem\obj\x86\Debug\LTESystem.frmLTESystem.resources
+D:\实习\C#项目\LTE用户定位系统10.1单用户\LTESystem\obj\x86\Debug\LTESystem.Login.resources
+D:\实习\C#项目\LTE用户定位系统10.1单用户\LTESystem\obj\x86\Debug\LTESystem.Properties.Resources.resources
+D:\实习\C#项目\LTE用户定位系统10.1单用户\LTESystem\obj\x86\Debug\LTESystem.Register.resources
+D:\实习\C#项目\LTE用户定位系统10.1单用户\LTESystem\obj\x86\Debug\LTESystem.csproj.GenerateResource.Cache
+D:\实习\C#项目\LTE用户定位系统10.1单用户\LTESystem\obj\x86\Debug\LTESystem.exe
+D:\实习\C#项目\LTE用户定位系统10.1单用户\LTESystem\obj\x86\Debug\LTESystem.pdb
+C:\Users\zxw\Desktop\LTE用户定位系统10.10单用户\OUTPUT\LTESystem.exe
+C:\Users\zxw\Desktop\LTE用户定位系统10.10单用户\OUTPUT\LTESystem.pdb
+C:\Users\zxw\Desktop\LTE用户定位系统10.10单用户\LTESystem\obj\x86\Debug\LTESystem.csprojResolveAssemblyReference.cache
+C:\Users\zxw\Desktop\LTE用户定位系统10.10单用户\LTESystem\obj\x86\Debug\LTESystem.frmLTESystem.resources
+C:\Users\zxw\Desktop\LTE用户定位系统10.10单用户\LTESystem\obj\x86\Debug\LTESystem.Login.resources
+C:\Users\zxw\Desktop\LTE用户定位系统10.10单用户\LTESystem\obj\x86\Debug\LTESystem.Properties.Resources.resources
+C:\Users\zxw\Desktop\LTE用户定位系统10.10单用户\LTESystem\obj\x86\Debug\LTESystem.Register.resources
+C:\Users\zxw\Desktop\LTE用户定位系统10.10单用户\LTESystem\obj\x86\Debug\LTESystem.csproj.GenerateResource.Cache
+C:\Users\zxw\Desktop\LTE用户定位系统10.10单用户\LTESystem\obj\x86\Debug\LTESystem.exe
+C:\Users\zxw\Desktop\LTE用户定位系统10.10单用户\LTESystem\obj\x86\Debug\LTESystem.pdb
+D:\实习\C#项目\LTE用户定位系统10.11单用户\OUTPUT\LTESystem.exe
+D:\实习\C#项目\LTE用户定位系统10.11单用户\OUTPUT\LTESystem.pdb
+D:\实习\C#项目\LTE用户定位系统10.11单用户\LTESystem\obj\x86\Debug\LTESystem.csprojResolveAssemblyReference.cache
+D:\实习\C#项目\LTE用户定位系统10.11单用户\LTESystem\obj\x86\Debug\LTESystem.frmLTESystem.resources
+D:\实习\C#项目\LTE用户定位系统10.11单用户\LTESystem\obj\x86\Debug\LTESystem.Login.resources
+D:\实习\C#项目\LTE用户定位系统10.11单用户\LTESystem\obj\x86\Debug\LTESystem.Properties.Resources.resources
+D:\实习\C#项目\LTE用户定位系统10.11单用户\LTESystem\obj\x86\Debug\LTESystem.Register.resources
+D:\实习\C#项目\LTE用户定位系统10.11单用户\LTESystem\obj\x86\Debug\LTESystem.csproj.GenerateResource.Cache
+D:\实习\C#项目\LTE用户定位系统10.11单用户\LTESystem\obj\x86\Debug\LTESystem.exe
+D:\实习\C#项目\LTE用户定位系统10.11单用户\LTESystem\obj\x86\Debug\LTESystem.pdb
+C:\Users\zxw\Desktop\LTE用户定位系统10.14单用户\OUTPUT\LTESystem.exe
+C:\Users\zxw\Desktop\LTE用户定位系统10.14单用户\OUTPUT\LTESystem.pdb
+C:\Users\zxw\Desktop\LTE用户定位系统10.14单用户\LTESystem\obj\x86\Debug\LTESystem.csprojResolveAssemblyReference.cache
+C:\Users\zxw\Desktop\LTE用户定位系统10.14单用户\LTESystem\obj\x86\Debug\LTESystem.frmLTESystem.resources
+C:\Users\zxw\Desktop\LTE用户定位系统10.14单用户\LTESystem\obj\x86\Debug\LTESystem.Login.resources
+C:\Users\zxw\Desktop\LTE用户定位系统10.14单用户\LTESystem\obj\x86\Debug\LTESystem.Properties.Resources.resources
+C:\Users\zxw\Desktop\LTE用户定位系统10.14单用户\LTESystem\obj\x86\Debug\LTESystem.Register.resources
+C:\Users\zxw\Desktop\LTE用户定位系统10.14单用户\LTESystem\obj\x86\Debug\LTESystem.csproj.GenerateResource.Cache
+C:\Users\zxw\Desktop\LTE用户定位系统10.14单用户\LTESystem\obj\x86\Debug\LTESystem.exe
+C:\Users\zxw\Desktop\LTE用户定位系统10.14单用户\LTESystem\obj\x86\Debug\LTESystem.pdb
+C:\Users\zxw\Desktop\LTE用户定位系统10.17单用户\OUTPUT\LTESystem.exe
+C:\Users\zxw\Desktop\LTE用户定位系统10.17单用户\OUTPUT\LTESystem.pdb
+C:\Users\zxw\Desktop\LTE用户定位系统10.17单用户\LTESystem\obj\x86\Debug\LTESystem.csprojResolveAssemblyReference.cache
+C:\Users\zxw\Desktop\LTE用户定位系统10.17单用户\LTESystem\obj\x86\Debug\LTESystem.frmLTESystem.resources
+C:\Users\zxw\Desktop\LTE用户定位系统10.17单用户\LTESystem\obj\x86\Debug\LTESystem.Login.resources
+C:\Users\zxw\Desktop\LTE用户定位系统10.17单用户\LTESystem\obj\x86\Debug\LTESystem.Properties.Resources.resources
+C:\Users\zxw\Desktop\LTE用户定位系统10.17单用户\LTESystem\obj\x86\Debug\LTESystem.Register.resources
+C:\Users\zxw\Desktop\LTE用户定位系统10.17单用户\LTESystem\obj\x86\Debug\LTESystem.csproj.GenerateResource.Cache
+C:\Users\zxw\Desktop\LTE用户定位系统10.17单用户\LTESystem\obj\x86\Debug\LTESystem.exe
+C:\Users\zxw\Desktop\LTE用户定位系统10.17单用户\LTESystem\obj\x86\Debug\LTESystem.pdb
+D:\实习\C#项目\LTE用户定位系统10.20单用户\OUTPUT\LTESystem.exe
+D:\实习\C#项目\LTE用户定位系统10.20单用户\OUTPUT\LTESystem.pdb
+D:\实习\C#项目\LTE用户定位系统10.20单用户\LTESystem\obj\x86\Debug\LTESystem.csprojResolveAssemblyReference.cache
+D:\实习\C#项目\LTE用户定位系统10.20单用户\LTESystem\obj\x86\Debug\LTESystem.frmLTESystem.resources
+D:\实习\C#项目\LTE用户定位系统10.20单用户\LTESystem\obj\x86\Debug\LTESystem.Login.resources
+D:\实习\C#项目\LTE用户定位系统10.20单用户\LTESystem\obj\x86\Debug\LTESystem.Properties.Resources.resources
+D:\实习\C#项目\LTE用户定位系统10.20单用户\LTESystem\obj\x86\Debug\LTESystem.Register.resources
+D:\实习\C#项目\LTE用户定位系统10.20单用户\LTESystem\obj\x86\Debug\LTESystem.csproj.GenerateResource.Cache
+D:\实习\C#项目\LTE用户定位系统10.20单用户\LTESystem\obj\x86\Debug\LTESystem.exe
+D:\实习\C#项目\LTE用户定位系统10.20单用户\LTESystem\obj\x86\Debug\LTESystem.pdb
+C:\Users\TEMP\Desktop\LTE用户定位系统10.22单用户\OUTPUT\LTESystem.exe
+C:\Users\TEMP\Desktop\LTE用户定位系统10.22单用户\OUTPUT\LTESystem.pdb
+C:\Users\TEMP\Desktop\LTE用户定位系统10.22单用户\LTESystem\obj\x86\Debug\LTESystem.csprojResolveAssemblyReference.cache
+C:\Users\TEMP\Desktop\LTE用户定位系统10.22单用户\LTESystem\obj\x86\Debug\LTESystem.frmLTESystem.resources
+C:\Users\TEMP\Desktop\LTE用户定位系统10.22单用户\LTESystem\obj\x86\Debug\LTESystem.Login.resources
+C:\Users\TEMP\Desktop\LTE用户定位系统10.22单用户\LTESystem\obj\x86\Debug\LTESystem.Properties.Resources.resources
+C:\Users\TEMP\Desktop\LTE用户定位系统10.22单用户\LTESystem\obj\x86\Debug\LTESystem.Register.resources
+C:\Users\TEMP\Desktop\LTE用户定位系统10.22单用户\LTESystem\obj\x86\Debug\LTESystem.csproj.GenerateResource.Cache
+C:\Users\TEMP\Desktop\LTE用户定位系统10.22单用户\LTESystem\obj\x86\Debug\LTESystem.exe
+C:\Users\TEMP\Desktop\LTE用户定位系统10.22单用户\LTESystem\obj\x86\Debug\LTESystem.pdb
+D:\实习\C#项目\LTE用户定位系统10.28单用户\OUTPUT\LTESystem.exe
+D:\实习\C#项目\LTE用户定位系统10.28单用户\OUTPUT\LTESystem.pdb
+D:\实习\C#项目\LTE用户定位系统10.28单用户\LTESystem\obj\x86\Debug\LTESystem.csprojResolveAssemblyReference.cache
+D:\实习\C#项目\LTE用户定位系统10.28单用户\LTESystem\obj\x86\Debug\LTESystem.frmLTESystem.resources
+D:\实习\C#项目\LTE用户定位系统10.28单用户\LTESystem\obj\x86\Debug\LTESystem.Login.resources
+D:\实习\C#项目\LTE用户定位系统10.28单用户\LTESystem\obj\x86\Debug\LTESystem.Properties.Resources.resources
+D:\实习\C#项目\LTE用户定位系统10.28单用户\LTESystem\obj\x86\Debug\LTESystem.Register.resources
+D:\实习\C#项目\LTE用户定位系统10.28单用户\LTESystem\obj\x86\Debug\LTESystem.csproj.GenerateResource.Cache
+D:\实习\C#项目\LTE用户定位系统10.28单用户\LTESystem\obj\x86\Debug\LTESystem.exe
+D:\实习\C#项目\LTE用户定位系统10.28单用户\LTESystem\obj\x86\Debug\LTESystem.pdb
+D:\实习\C#项目\LTE用户定位系统10.30单用户\OUTPUT\LTESystem.exe
+D:\实习\C#项目\LTE用户定位系统10.30单用户\OUTPUT\LTESystem.pdb
+D:\实习\C#项目\LTE用户定位系统10.30单用户\LTESystem\obj\x86\Debug\LTESystem.csprojResolveAssemblyReference.cache
+D:\实习\C#项目\LTE用户定位系统10.30单用户\LTESystem\obj\x86\Debug\LTESystem.frmLTESystem.resources
+D:\实习\C#项目\LTE用户定位系统10.30单用户\LTESystem\obj\x86\Debug\LTESystem.Login.resources
+D:\实习\C#项目\LTE用户定位系统10.30单用户\LTESystem\obj\x86\Debug\LTESystem.Properties.Resources.resources
+D:\实习\C#项目\LTE用户定位系统10.30单用户\LTESystem\obj\x86\Debug\LTESystem.Register.resources
+D:\实习\C#项目\LTE用户定位系统10.30单用户\LTESystem\obj\x86\Debug\LTESystem.csproj.GenerateResource.Cache
+D:\实习\C#项目\LTE用户定位系统10.30单用户\LTESystem\obj\x86\Debug\LTESystem.exe
+D:\实习\C#项目\LTE用户定位系统10.30单用户\LTESystem\obj\x86\Debug\LTESystem.pdb
+C:\Users\TEMP\Desktop\LTE用户定位系统11.2单用户\OUTPUT\LTESystem.exe
+C:\Users\TEMP\Desktop\LTE用户定位系统11.2单用户\OUTPUT\LTESystem.pdb
+C:\Users\TEMP\Desktop\LTE用户定位系统11.2单用户\LTESystem\obj\x86\Debug\LTESystem.csprojResolveAssemblyReference.cache
+C:\Users\TEMP\Desktop\LTE用户定位系统11.2单用户\LTESystem\obj\x86\Debug\LTESystem.frmLTESystem.resources
+C:\Users\TEMP\Desktop\LTE用户定位系统11.2单用户\LTESystem\obj\x86\Debug\LTESystem.Login.resources
+C:\Users\TEMP\Desktop\LTE用户定位系统11.2单用户\LTESystem\obj\x86\Debug\LTESystem.Properties.Resources.resources
+C:\Users\TEMP\Desktop\LTE用户定位系统11.2单用户\LTESystem\obj\x86\Debug\LTESystem.Register.resources
+C:\Users\TEMP\Desktop\LTE用户定位系统11.2单用户\LTESystem\obj\x86\Debug\LTESystem.csproj.GenerateResource.Cache
+C:\Users\TEMP\Desktop\LTE用户定位系统11.2单用户\LTESystem\obj\x86\Debug\LTESystem.exe
+C:\Users\TEMP\Desktop\LTE用户定位系统11.2单用户\LTESystem\obj\x86\Debug\LTESystem.pdb
+D:\实习\C#项目\LTE用户定位系统11.3单用户\OUTPUT\LTESystem.exe
+D:\实习\C#项目\LTE用户定位系统11.3单用户\OUTPUT\LTESystem.pdb
+D:\实习\C#项目\LTE用户定位系统11.3单用户\LTESystem\obj\x86\Debug\LTESystem.csprojResolveAssemblyReference.cache
+D:\实习\C#项目\LTE用户定位系统11.3单用户\LTESystem\obj\x86\Debug\LTESystem.frmLTESystem.resources
+D:\实习\C#项目\LTE用户定位系统11.3单用户\LTESystem\obj\x86\Debug\LTESystem.Login.resources
+D:\实习\C#项目\LTE用户定位系统11.3单用户\LTESystem\obj\x86\Debug\LTESystem.Properties.Resources.resources
+D:\实习\C#项目\LTE用户定位系统11.3单用户\LTESystem\obj\x86\Debug\LTESystem.Register.resources
+D:\实习\C#项目\LTE用户定位系统11.3单用户\LTESystem\obj\x86\Debug\LTESystem.csproj.GenerateResource.Cache
+D:\实习\C#项目\LTE用户定位系统11.3单用户\LTESystem\obj\x86\Debug\LTESystem.exe
+D:\实习\C#项目\LTE用户定位系统11.3单用户\LTESystem\obj\x86\Debug\LTESystem.pdb
+D:\实习\C#项目\LTE用户定位系统11.4单用户\OUTPUT\LTESystem.exe
+D:\实习\C#项目\LTE用户定位系统11.4单用户\OUTPUT\LTESystem.pdb
+D:\实习\C#项目\LTE用户定位系统11.4单用户\LTESystem\obj\x86\Debug\LTESystem.csprojResolveAssemblyReference.cache
+D:\实习\C#项目\LTE用户定位系统11.4单用户\LTESystem\obj\x86\Debug\LTESystem.frmLTESystem.resources
+D:\实习\C#项目\LTE用户定位系统11.4单用户\LTESystem\obj\x86\Debug\LTESystem.Login.resources
+D:\实习\C#项目\LTE用户定位系统11.4单用户\LTESystem\obj\x86\Debug\LTESystem.Properties.Resources.resources
+D:\实习\C#项目\LTE用户定位系统11.4单用户\LTESystem\obj\x86\Debug\LTESystem.Register.resources
+D:\实习\C#项目\LTE用户定位系统11.4单用户\LTESystem\obj\x86\Debug\LTESystem.csproj.GenerateResource.Cache
+D:\实习\C#项目\LTE用户定位系统11.4单用户\LTESystem\obj\x86\Debug\LTESystem.exe
+D:\实习\C#项目\LTE用户定位系统11.4单用户\LTESystem\obj\x86\Debug\LTESystem.pdb
+C:\Users\xiang\Documents\C#项目\LTE用户定位系统12.10单用户\OUTPUT\LTESystem.exe
+C:\Users\xiang\Documents\C#项目\LTE用户定位系统12.10单用户\OUTPUT\LTESystem.pdb
+C:\Users\xiang\Documents\C#项目\LTE用户定位系统12.10单用户\LTESystem\obj\x86\Debug\LTESystem.csprojResolveAssemblyReference.cache
+C:\Users\xiang\Documents\C#项目\LTE用户定位系统12.10单用户\LTESystem\obj\x86\Debug\LTESystem.frmLTESystem.resources
+C:\Users\xiang\Documents\C#项目\LTE用户定位系统12.10单用户\LTESystem\obj\x86\Debug\LTESystem.Login.resources
+C:\Users\xiang\Documents\C#项目\LTE用户定位系统12.10单用户\LTESystem\obj\x86\Debug\LTESystem.Properties.Resources.resources
+C:\Users\xiang\Documents\C#项目\LTE用户定位系统12.10单用户\LTESystem\obj\x86\Debug\LTESystem.Register.resources
+C:\Users\xiang\Documents\C#项目\LTE用户定位系统12.10单用户\LTESystem\obj\x86\Debug\LTESystem.csproj.GenerateResource.Cache
+C:\Users\xiang\Documents\C#项目\LTE用户定位系统12.10单用户\LTESystem\obj\x86\Debug\LTESystem.exe
+C:\Users\xiang\Documents\C#项目\LTE用户定位系统12.10单用户\LTESystem\obj\x86\Debug\LTESystem.pdb
+C:\Users\zxw\Desktop\LTE用户定位系统12.10单用户\OUTPUT\LTESystem.exe
+C:\Users\zxw\Desktop\LTE用户定位系统12.10单用户\OUTPUT\LTESystem.pdb
+C:\Users\zxw\Desktop\LTE用户定位系统12.10单用户\LTESystem\obj\x86\Debug\LTESystem.csprojResolveAssemblyReference.cache
+C:\Users\zxw\Desktop\LTE用户定位系统12.10单用户\LTESystem\obj\x86\Debug\LTESystem.frmLTESystem.resources
+C:\Users\zxw\Desktop\LTE用户定位系统12.10单用户\LTESystem\obj\x86\Debug\LTESystem.Login.resources
+C:\Users\zxw\Desktop\LTE用户定位系统12.10单用户\LTESystem\obj\x86\Debug\LTESystem.Properties.Resources.resources
+C:\Users\zxw\Desktop\LTE用户定位系统12.10单用户\LTESystem\obj\x86\Debug\LTESystem.Register.resources
+C:\Users\zxw\Desktop\LTE用户定位系统12.10单用户\LTESystem\obj\x86\Debug\LTESystem.csproj.GenerateResource.Cache
+C:\Users\zxw\Desktop\LTE用户定位系统12.10单用户\LTESystem\obj\x86\Debug\LTESystem.exe
+C:\Users\zxw\Desktop\LTE用户定位系统12.10单用户\LTESystem\obj\x86\Debug\LTESystem.pdb
+C:\Users\xiang\Documents\C#项目\LTE用户定位系统12.15单用户\OUTPUT\LTESystem.exe
+C:\Users\xiang\Documents\C#项目\LTE用户定位系统12.15单用户\OUTPUT\LTESystem.pdb
+C:\Users\xiang\Documents\C#项目\LTE用户定位系统12.15单用户\LTESystem\obj\x86\Debug\LTESystem.csprojResolveAssemblyReference.cache
+C:\Users\xiang\Documents\C#项目\LTE用户定位系统12.15单用户\LTESystem\obj\x86\Debug\LTESystem.frmLTESystem.resources
+C:\Users\xiang\Documents\C#项目\LTE用户定位系统12.15单用户\LTESystem\obj\x86\Debug\LTESystem.Login.resources
+C:\Users\xiang\Documents\C#项目\LTE用户定位系统12.15单用户\LTESystem\obj\x86\Debug\LTESystem.Properties.Resources.resources
+C:\Users\xiang\Documents\C#项目\LTE用户定位系统12.15单用户\LTESystem\obj\x86\Debug\LTESystem.Register.resources
+C:\Users\xiang\Documents\C#项目\LTE用户定位系统12.15单用户\LTESystem\obj\x86\Debug\LTESystem.csproj.GenerateResource.Cache
+C:\Users\xiang\Documents\C#项目\LTE用户定位系统12.15单用户\LTESystem\obj\x86\Debug\LTESystem.exe
+C:\Users\xiang\Documents\C#项目\LTE用户定位系统12.15单用户\LTESystem\obj\x86\Debug\LTESystem.pdb

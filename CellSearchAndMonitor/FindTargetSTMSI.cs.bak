@@ -1,0 +1,703 @@
+﻿using COM.ZCTT.AGI.Plugin;
+using Plugin;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Windows.Forms;
+using WeifenLuo.WinFormsUI.Docking;
+using AGIInterface;
+using COM.ZCTT.AGI.Common;
+using System.IO;
+using System.Runtime.InteropServices;
+using DeviceMangerModule;
+using System.Threading;
+using System.Net.NetworkInformation;
+
+namespace CellSearchAndMonitor
+{
+    public partial class FindTargetSTMSI : WeifenLuo.WinFormsUI.Docking.DockContent, COM.ZCTT.AGI.Plugin.IPlugin
+    {
+        static bool EventLoad = false;
+
+        public FindTargetSTMSI()
+        {
+            InitializeComponent();
+            this.WindowState = FormWindowState.Maximized;
+        }
+
+        public static FindTargetSTMSI FTSTMSIForm;
+        #region 实现IPlugin接口
+        public new void Load()
+        {
+            if (FTSTMSIForm == null || FTSTMSIForm.IsDisposed)
+            {
+                FTSTMSIForm = new FindTargetSTMSI();
+                FTSTMSIForm.ShowHint = DockState.Document;
+                FTSTMSIForm.Show(GloabeControl.findSTMSIDockPanel);
+                FTSTMSIForm.DockState = DockState.Document;
+
+            }
+            else
+            {
+                FTSTMSIForm.ShowHint = DockState.Document;
+                FTSTMSIForm.Show(GloabeControl.findSTMSIDockPanel);
+                FTSTMSIForm.DockState = DockState.Document;
+                //debugDisplay.DockAreas = DockAreas.Document;
+            }
+            //sTmsiGraph.ShowDialog();
+            if (EventLoad == false)
+            {
+                Global.tempClass.SendDataToProTrackEvent += this.DataReceived;
+                Global.tempClass.StartEvent += new Class1.StartHandler(StartEvent);
+                Global.tempClass.CloseDisplayFormEvent += new Class1.CloseDisplayFormHander(CloseForm);
+                EventLoad = true;
+            }
+
+            FTSTMSIForm.ModifyTargetButton.Enabled = false;
+            FTSTMSIForm.TriggerComboBox.Items.Add("短信");
+            FTSTMSIForm.TriggerComboBox.Items.Add("电话");
+            FTSTMSIForm.TriggerComboBox.Items.Add("Ping");
+            FTSTMSIForm.TriggerComboBox.Items.Add("寻呼");
+            FTSTMSIForm.TriggerComboBox.SelectedItem = FTSTMSIForm.TriggerComboBox.Items[0];
+            FTSTMSIForm.MesThresholdText.Text = "50";
+            FTSTMSIForm.GetSTMSIButton.Enabled = false;
+            FTSTMSIForm.StopFindingSTMSIButton.Enabled = false;
+
+            LoadData();
+        }
+
+        /// <summary>
+        /// 关闭当前窗口执行的事件
+        /// </summary>
+        private void CloseForm()
+        {
+            SaveData();
+            FTSTMSIForm.Close();
+            FTSTMSIForm.Dispose(true);
+        }
+
+
+        /// <summary>
+        /// “开始测试”执行的事件：
+        /// 清空所有数据以及界面上的内容
+        /// </summary>
+        /// <param name="sender">sender为AGIInterface.Class1</param>
+        /// <param name="e">自定义的事件参数</param>
+        private void StartEvent(object sender, AGIInterface.CustomDataEvtArg e)
+        {
+            if (FTSTMSIForm != null)
+            {
+                //读取两个表格的数据
+                //sTmsiGraph.dgvDisplay.Rows.Clear();
+            }
+        }
+        #endregion
+
+        #region 目标信息输出struct
+        private class TargetListViewInfo
+        {
+            public string stmsi { get; set; }
+            public string earfcn { get; set; }
+            public string pci { get; set; }
+            public string tai { get; set; }
+            public string plmn { get; set; }
+            public string ecgi { get; set; }
+            public string band { get; set; }
+            public UInt32 count { get; set; }
+        }
+        #endregion
+        private Dictionary<String, TargetListViewInfo> AllSTMSICount = new Dictionary<String, TargetListViewInfo>();
+        private Dictionary<String, TargetListViewInfo> TopTenSTMSICount = new Dictionary<String, TargetListViewInfo>();
+        /// <summary>
+        /// 程序收到数据的处理方法
+        /// </summary>
+        /// <param name="sender">AGIInterface.Class1</param>
+        /// <param name="e">自定义的事件参数</param>
+        public void DataReceived(object sender, AGIInterface.CustomDataEvtArg e)
+        {
+            //将AG_PC_PROTOCOL_DATA显示在界面上
+            if (FTSTMSIForm.InvokeRequired)
+            {
+                try
+                {
+                    if (FTSTMSIForm != null)
+                    {
+                        //proTracDisplay.Invoke(new Class1.DeviceSendDataToProTrackHandler(DataReceived), sender, e);
+                        FTSTMSIForm.BeginInvoke(new Class1.DeviceSendDataToProTrackHandler(DataReceived), sender, e);
+                    }
+                    else
+                    {
+
+                    }
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine(">>>Message= " + ex.Message + "\r\n StrackTrace: " + ex.StackTrace);
+                }
+            }
+            else
+            {
+                if (Global.CurrentSender == FTSTMSIForm.Name)//e.deivceName == Global.GCurrentDevice)
+                    try
+                    {
+                        UInt16 messageType = 0;
+                        messageType = BitConverter.ToUInt16(e.data, 6);
+                        UInt16 messageLength = 0;
+                        messageLength = BitConverter.ToUInt16(e.data, 10);
+                        //判断消息长度
+                        if (messageLength * 4 != e.data.Length - 12)
+                        {
+                            return;
+                        }
+
+                        if (messageType == COM.ZCTT.AGI.Common.AGIMsgDefine.L2P_AG_UE_CAPTURE_IND_MSG_TYPE)
+                        {
+                            STMSIStruct stru_STMSIStruct = new STMSIStruct();
+
+                            L2P_AG_UE_CAPTURE_IND L2pAgUeCaptureInd = new L2P_AG_UE_CAPTURE_IND();
+                            //得到结构体大小
+                            int isize = Marshal.SizeOf(L2pAgUeCaptureInd);
+                            //比较结构体大小
+                            if (isize > e.data.Length)
+                            {
+                                return;
+                            }
+                            //分配结构体大小的内存空间
+                            IntPtr Intptr = Marshal.AllocHGlobal(isize);
+                            //将byte数组拷贝到内存空间
+                            Marshal.Copy(e.data, 0, Intptr, isize);
+                            //将内存空间转换为目标结构体
+                            //Marshal.PtrToStructure(intptr, ProtocolData);
+                            L2pAgUeCaptureInd = (L2P_AG_UE_CAPTURE_IND)Marshal.PtrToStructure(Intptr, typeof(L2P_AG_UE_CAPTURE_IND));
+                            //释放内存空间
+                            Marshal.FreeHGlobal(Intptr);
+
+                            for (int i = 1; i <= 32; i = i * 2)
+                            {
+                                if ((L2pAgUeCaptureInd.mstUECaptureInfo.mu8UEIDTypeFlg & i) == i)
+                                {
+                                    switch (i)
+                                    {
+                                        case 32:
+                                            stru_STMSIStruct.mMec = L2pAgUeCaptureInd.mstUECaptureInfo.mau8GUTIDATA[5];
+                                            Byte[] sTMSI = new Byte[] { 0, 0, 0, 0 };
+                                            sTMSI[3] = L2pAgUeCaptureInd.mstUECaptureInfo.mau8GUTIDATA[6];
+                                            sTMSI[2] = L2pAgUeCaptureInd.mstUECaptureInfo.mau8GUTIDATA[7];
+                                            sTMSI[1] = L2pAgUeCaptureInd.mstUECaptureInfo.mau8GUTIDATA[8];
+                                            sTMSI[0] = L2pAgUeCaptureInd.mstUECaptureInfo.mau8GUTIDATA[9];
+                                            stru_STMSIStruct.sTMSI = sTMSI;
+                                            stru_STMSIStruct.mu8EstCause = L2pAgUeCaptureInd.mstUECaptureInfo.mu8Pading1;
+                                            //Global.GStmsiList.Add(stru_STMSIStruct);
+                                            break;
+                                        default:
+                                            break;
+                                    }
+                                }
+                            }
+
+                            //count
+                            String stmsi = stru_STMSIStruct.mMec.ToString("X2") + stru_STMSIStruct.sTMSI[0].ToString("X2") + stru_STMSIStruct.sTMSI[1].ToString("X2") + stru_STMSIStruct.sTMSI[2].ToString("X2") + stru_STMSIStruct.sTMSI[3].ToString("X2");
+                            
+                            System.Diagnostics.Debug.WriteLine(" >>>>>>>>>>>>>receive a stmsi:  " + stmsi);
+
+                            if (stru_STMSIStruct.mu8EstCause == 0x02)
+                            {
+                                TargetListViewInfo info = new TargetListViewInfo();
+                                info.stmsi = stmsi;
+                                foreach (ListViewItem item in CellSearchAndMonitorUnions.CellMonitorLV.Items)
+                                {
+                                    if (e.deivceName == item.SubItems[6].Text.Trim())
+                                    {
+                                        info.earfcn = item.SubItems[1].Text.Trim();
+                                        info.pci = item.SubItems[2].Text.Trim();
+                                        info.plmn = item.SubItems[3].Text.Trim();
+                                        info.tai = item.SubItems[4].Text.Trim();
+                                        info.ecgi = item.SubItems[5].Text.Trim();
+                                        info.band = (String)item.Tag;
+                                    }
+                                }
+                                info.count = 1;
+
+                                if (FTSTMSIForm.AllSTMSICount.ContainsKey(stmsi))
+                                {
+                                    FTSTMSIForm.AllSTMSICount[stmsi].count++;
+                                }
+                                else
+                                {
+                                    FTSTMSIForm.AllSTMSICount.Add(stmsi, info);
+                                }
+
+                                //if (FTSTMSIForm.TopTenSTMSICount.ContainsKey(stmsi))
+                                //{
+                                //    //FTSTMSIForm.TopTenSTMSICount[stmsi].count++;
+                                //}
+                                //else
+                                //{
+                                //    if (FTSTMSIForm.TopTenSTMSICount.Count < 10)
+                                //    {
+                                //        FTSTMSIForm.TopTenSTMSICount.Add(stmsi, info);
+                                //    }
+                                //    else
+                                //    {
+                                //        if (FTSTMSIForm.AllSTMSICount[stmsi].count > FTSTMSIForm.TopTenSTMSICount.Last().Value.count)
+                                //        {
+                                //            FTSTMSIForm.TopTenSTMSICount.Remove(FTSTMSIForm.TopTenSTMSICount.Last().Key);
+                                //            FTSTMSIForm.TopTenSTMSICount.Add(stmsi, AllSTMSICount[stmsi]);
+                                //        }
+                                //    }
+                                //}
+
+                                var temp = FTSTMSIForm.AllSTMSICount.OrderByDescending(
+                                    item => item.Value.count
+                                    );
+                                Dictionary<String, TargetListViewInfo> t = new Dictionary<String, TargetListViewInfo>();
+                                temp.ToList().ForEach(item => t.Add(item.Key, item.Value));
+                                FTSTMSIForm.AllSTMSICount = t;
+
+                                FTSTMSIForm.TargetInfoListView.Items.Clear();
+                                foreach (var item in FTSTMSIForm.AllSTMSICount)
+                                {
+                                    ListViewItem LVItem = new ListViewItem(new string[8]);
+                                    LVItem.SubItems[0].Text = (FTSTMSIForm.TargetInfoListView.Items.Count + 1).ToString();
+                                    LVItem.SubItems[1].Text = item.Key.ToString();
+                                    LVItem.SubItems[2].Text = item.Value.earfcn.ToString();
+                                    LVItem.SubItems[3].Text = item.Value.pci.ToString();
+                                    LVItem.SubItems[4].Text = item.Value.plmn.ToString();
+                                    LVItem.SubItems[5].Text = item.Value.tai.ToString();
+                                    LVItem.SubItems[6].Text = item.Value.ecgi.ToString();
+                                    LVItem.SubItems[7].Text = item.Value.count.ToString();
+                                    LVItem.Tag = item.Value.band;
+
+                                    FTSTMSIForm.TargetInfoListView.Items.Add(LVItem);
+                                }
+                            }
+                            
+                            //FTSTMSIForm.TargetInfoListViewRefresh();
+                        }
+
+                        
+                    }
+                    catch (Exception ex)
+                    {
+                        Console.WriteLine(">>>Message= " + ex.Message + "\r\n StrackTrace: " + ex.StackTrace);
+                        return;
+                    }
+            }
+        }
+
+        #region 目标号码信息
+        private struct TargetInfo
+        {
+            public string name { get; set; }
+            public string tel { get; set; }
+            public string ip { get; set; }
+            public string imsi { get; set; }
+        }
+        #endregion
+
+        private void AddTargetButton_Click(object sender, EventArgs e)
+        {
+            ListViewItem item = ListViewItemDataModify();
+            if (item != null)
+                MonitorListView.Items.Add(item);
+        }
+
+        private void MonitorListView_MouseClick(object sender, MouseEventArgs e)
+        {
+            if (e.Button == MouseButtons.Left)
+            {
+                TargetTelText.Text = MonitorListView.FocusedItem.SubItems[1].Text;
+                TargetIPText.Text = MonitorListView.FocusedItem.SubItems[2].Text;
+                FTSTMSIForm.GetSTMSIButton.Enabled = true;
+            }
+
+            if (e.Button == MouseButtons.Right)
+            {
+                FTSTMSIForm.contextMenuStrip.Items.Clear();
+                contextMenuStrip.Items.Add("删除");
+                contextMenuStrip.Items.Add("全部删除");
+                FTSTMSIForm.contextMenuStrip.Show(MousePosition.X, MousePosition.Y);
+            }
+
+        }
+
+        private void contextMenuStrip_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+            switch ((e.ClickedItem as ToolStripMenuItem).Text)
+            {
+                case "删除":
+                    MonitorListView.Items.Remove(MonitorListView.FocusedItem);
+                    break;
+                case "全部删除":
+                    MonitorListView.Items.Clear();
+                    break;
+
+                default:
+                    break;
+            }
+            
+        }
+
+        private void ModifyTargetButton_Click(object sender, EventArgs e)
+        {
+            ListViewItem LVItem = ListViewItemDataModify();
+            if (LVItem == null) return;
+
+            for (int i = 0; i < LVItem.SubItems.Count; i++)
+            {
+                MonitorListView.SelectedItems[0].SubItems[i].Text = LVItem.SubItems[i].Text;
+            }
+
+            TargetTelText.Text = MonitorListView.FocusedItem.SubItems[1].Text;
+            TargetIPText.Text = MonitorListView.FocusedItem.SubItems[2].Text;
+        }
+
+        private static ListViewItem ListViewItemDataModify()
+        {
+            TargetInfo info = new TargetInfo();
+            info.name = FTSTMSIForm.NameText.Text.Trim();
+            info.tel = FTSTMSIForm.TelText.Text.Trim();
+            info.ip = FTSTMSIForm.IPText.Text.Trim();
+            info.imsi = FTSTMSIForm.IMSIText.Text.Trim();
+
+            bool CanModify = false;
+
+            switch (FTSTMSIForm.TriggerComboBox.Text)
+            {
+                case "短信":
+                case "电话":
+                    CanModify = !String.IsNullOrWhiteSpace(info.name) && CellSearchAndMonitorUnions.IsPhoneNum(info.tel);
+                    break;
+                case "Ping":
+                    CanModify = !String.IsNullOrWhiteSpace(info.name) && CellSearchAndMonitorUnions.IsIPAddress(info.ip);
+                    break;
+                case "寻呼":
+                    CanModify = !String.IsNullOrWhiteSpace(info.name) && !String.IsNullOrWhiteSpace(info.imsi);
+                    break;
+                default:
+                    break;
+            }
+            ListViewItem LVItem = null;
+            if (CanModify)
+            {
+                LVItem = new ListViewItem(new string[4]);
+                LVItem.SubItems[0].Text = info.name;
+                LVItem.SubItems[1].Text = info.tel;
+                LVItem.SubItems[2].Text = info.ip;
+                LVItem.SubItems[3].Text = info.imsi;
+            }
+
+            return LVItem;
+        }
+
+        private void MonitorListView_ItemSelectionChanged(object sender, ListViewItemSelectionChangedEventArgs e)
+        {
+            if (MonitorListView.SelectedItems.Count > 0)
+            {
+                GetSTMSIButton.Enabled = true;
+                ModifyTargetButton.Enabled = true;
+            }
+            else
+            {
+                GetSTMSIButton.Enabled = false;
+                ModifyTargetButton.Enabled = false;
+            }
+        }
+
+        #region 保存信息
+
+        private void SaveData()
+        {
+            string FilePath = System.Windows.Forms.Application.StartupPath + "\\MonitorListData.bin";
+            CellSearchAndMonitorUnions.DataSave(FTSTMSIForm.MonitorListView, FilePath);
+        }
+        #endregion
+        #region 读取信息
+        private void LoadData()
+        {
+            string FilePath = System.Windows.Forms.Application.StartupPath + "\\MonitorListData.bin";
+            CellSearchAndMonitorUnions.DataLoad(FTSTMSIForm.MonitorListView, FilePath);
+        }
+        #endregion
+
+        private void TriggerComboBox_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            switch (FTSTMSIForm.TriggerComboBox.Text)
+            {
+                case "短信":
+                case "电话":
+                    FTSTMSIForm.TelText.Enabled = true;
+                    FTSTMSIForm.IPText.Enabled = false;
+                    FTSTMSIForm.IMSIText.Enabled = false;
+                    break;
+                case "Ping":
+                    FTSTMSIForm.IPText.Enabled = true;
+                    FTSTMSIForm.TelText.Enabled = false;
+                    FTSTMSIForm.IMSIText.Enabled = false;
+                    break;
+                case "寻呼":
+                    FTSTMSIForm.IMSIText.Enabled = true;
+                    FTSTMSIForm.TelText.Enabled = false;
+                    FTSTMSIForm.IPText.Enabled = false;
+                    break;
+                default:
+                    break;
+
+            }
+        }
+
+        private static Thread SendMessageOrPingThread;
+        private void GetSTMSIButton_Click(object sender, EventArgs e)
+        {
+            switch (FTSTMSIForm.TriggerComboBox.Text)
+            {
+                case "短信":
+                    {
+                        FTSTMSIForm.AllSTMSICount.Clear();
+                        FTSTMSIForm.TopTenSTMSICount.Clear();
+                        if (CellSearchAndMonitorUnions.CellMonitorLV.Items.Count == 0)
+                        {
+                            MessageBox.Show("没有监控板卡！");
+                            return;
+                        }
+                        foreach (ListViewItem LVItem in CellSearchAndMonitorUnions.CellMonitorLV.Items)
+                        {
+                            string earfcn = LVItem.SubItems[1].Text.Trim();
+                            string pci = LVItem.SubItems[2].Text.Trim();
+                            string band = (String)LVItem.Tag;
+
+                            CustomDataEvtArg CDEArgMes = CellSearchAndMonitorUnions.GenerateMessage(band,earfcn, pci, 2);
+
+                            if (DeviceManger.deviceList.Count == 0)
+                            {
+                                MessageBox.Show("没有可用板卡！");
+                                return;
+                            }
+                            Global.GCurrentDevice = LVItem.SubItems[6].Text.Trim();
+                            CDEArgMes.deivceName = Global.GCurrentDevice;
+                            Global.CurrentSender = FTSTMSIForm.Name;
+                            //Global.tempClass.Start(CellSearchSender, CDEArgMes);
+                            Global.tempClass.SendDataToDevice(sender, CDEArgMes);
+                        }
+
+                        //Thread.Sleep(3000);
+                        SendMessageOrPingThread = new Thread(FTSTMSIForm.SendTextMessage);
+                        SendMessageOrPingThread.Start();
+                        break;
+                    }
+                case "Ping":
+                    {
+                        string ip = FTSTMSIForm.TargetIPText.Text;
+                        if (CellSearchAndMonitorUnions.IsIPAddress(ip))
+                        {
+                            SendMessageOrPingThread = new Thread(FTSTMSIForm.PingTarget);
+                            SendMessageOrPingThread.Start();
+                        }
+                        break;
+                    }
+                default:
+                    break;
+            }
+            FTSTMSIForm.GetSTMSIButton.Enabled = false;
+            FTSTMSIForm.StopFindingSTMSIButton.Enabled = true;
+            
+        }
+
+        private void PingTarget()
+        {
+            if (!CellSearchAndMonitorUnions.IsDigitalString(FTSTMSIForm.MesThresholdText.Text))
+            {
+                MessageBox.Show("请输入合法门限值！");
+                return;
+            }
+            int SendMesThreshold = Convert.ToInt32(FTSTMSIForm.MesThresholdText.Text.Trim());
+
+            int FailSendingCount = 0;
+
+            string ip = FTSTMSIForm.TargetIPText.Text;
+            Ping p = new Ping();
+            PingOptions options = new PingOptions();
+            options.DontFragment = true;
+            string data = "TestData";
+            byte[] buffer = Encoding.ASCII.GetBytes(data);
+            int timeout = 1000;
+            PingReply reply = p.Send(ip, timeout, buffer, options);
+            if (reply.Status == IPStatus.Success)
+            {				
+                for (int i = 1; i < SendMesThreshold; i++)
+                {
+					Thread.Sleep(CellSearchAndMonitorUnions.PingTime);
+                    reply = p.Send(ip, timeout, buffer, options);
+                    if (reply.Status != IPStatus.Success)
+                        FailSendingCount++;                
+                }
+                MessageBox.Show("Ping发送失败共计 " + FailSendingCount + "次！");
+            }
+            else
+                MessageBox.Show(ip + "： ping失败！！");
+
+            CrossThreadOperationControl CrossThreadInfoRefresh = delegate()
+            {
+                StopFindingSTMSI();
+            };
+            FTSTMSIForm.Invoke(CrossThreadInfoRefresh);
+        }
+
+        #region 发送短消息
+        [STAThread]
+
+        [DllImport("sms.dll", EntryPoint = "Sms_Connection")]
+        public static extern uint Sms_Connection(string CopyRight, uint Com_Port, uint Com_BaudRate, out string Mobile_Type, out string CopyRightToCOM);
+
+        [DllImport("sms.dll", EntryPoint = "Sms_Disconnection")]
+        public static extern uint Sms_Disconnection();
+
+        [DllImport("sms.dll", EntryPoint = "Sms_Send")]
+        public static extern uint Sms_Send(string Sms_TelNum, string Sms_Text);
+
+        [DllImport("sms.dll", EntryPoint = "Sms_Receive")]
+        public static extern uint Sms_Receive(string Sms_Type, out string Sms_Text);
+
+        [DllImport("sms.dll", EntryPoint = "Sms_Delete")]
+        public static extern uint Sms_Delete(string Sms_Index);
+
+        [DllImport("sms.dll", EntryPoint = "Sms_AutoFlag")]
+        public static extern uint Sms_AutoFlag();
+
+        [DllImport("sms.dll", EntryPoint = "Sms_NewFlag")]
+        public static extern uint Sms_NewFlag();
+
+        private delegate void CrossThreadOperationControl();
+        private void SendTextMessage()
+        {
+            string threshold = "";
+            string tel = "";
+            CrossThreadOperationControl CrossThreadInfoGet = delegate()
+            {
+                threshold = FTSTMSIForm.MesThresholdText.Text;
+                tel = FTSTMSIForm.TargetTelText.Text;
+            };
+            FTSTMSIForm.Invoke(CrossThreadInfoGet);
+            if (!CellSearchAndMonitorUnions.IsDigitalString(threshold))
+            {
+                MessageBox.Show("请输入合法门限值！");
+                return;
+            }
+            int SendMesThreshold = Convert.ToInt32(threshold);
+
+            int FailSendingCount = 0;
+            if(STM_Sms_Connection())
+            {
+                string MesText = CellSearchAndMonitorUnions.TestMessage;
+
+                for(int i=0;i<SendMesThreshold;i++)
+                {
+                    if (Sms_Send(tel, MesText) == 0)
+                        FailSendingCount++;
+                    MessageBox.Show("发送成功！");
+                    Thread.Sleep(CellSearchAndMonitorUnions.TestMessageSendTime);
+                }
+
+                MessageBox.Show("短信发送失败共计 " + FailSendingCount + "次！");
+
+                Sms_Disconnection();
+
+                CrossThreadOperationControl CrossThreadInfoRefresh = delegate()
+                    {
+                        StopFindingSTMSI();
+                    };
+                FTSTMSIForm.Invoke(CrossThreadInfoRefresh);
+                
+                //Thread.Sleep(3000);
+                //AGIInterface.CustomDataEvtArg cusArg = new CustomDataEvtArg();
+                //cusArg.data = new byte[] { 0, 0, 0, 0, 4, 2, 0x0c, 0x40, 1, 0, 0, 0 };//加消息头。。
+                //cusArg.deivceName = Global.GCurrentDevice;
+                //Global.tempClass.SendDataToDevice(FTSTMSIForm, cusArg);
+            }
+
+            
+        }
+
+        private bool STM_Sms_Connection()
+        {
+            String TypeStr = "";
+            String CopyRightToCOM = "";
+            String CopyRightStr = "//上海迅赛信息技术有限公司,网址www.xunsai.com//";
+            String Port = CellSearchAndMonitorUnions.TestMessagePort.ToString();
+
+            if (Sms_Connection(CopyRightStr, uint.Parse(Port), 9600, out TypeStr, out CopyRightToCOM) == 1) ///5为串口号，0为红外接口，1,2,3,...为串口
+            {
+                return true;
+            }
+            else
+            {
+                MessageBox.Show("短信猫连接失败，请检查！");
+                return false;
+            }
+        }
+        #endregion
+
+        private void TargetInfoListViewRefresh()
+        {
+            
+        }
+
+        private void TargetInfoListView_MouseDoubleClick(object sender, MouseEventArgs e)
+        {
+            if (e.Button == MouseButtons.Left && FTSTMSIForm.TargetInfoListView.FocusedItem != null)
+            {
+                if (StopFindingSTMSIButton.Enabled == true)
+                {
+                    MessageBox.Show("请先停止查找STMSI！");
+                    return;
+                }
+                
+                FTSTMSIForm.TargetSTMSIText.Enabled = true;
+                CellSearchAndMonitorUnions.TargetInfoLVItem=FTSTMSIForm.TargetInfoListView.FocusedItem;
+                CellSearchAndMonitorUnions.ComboBoxStatus=FTSTMSIForm.TriggerComboBox.Text;
+                FTSTMSIForm.TargetSTMSIText.Text = FTSTMSIForm.TargetInfoListView.FocusedItem.SubItems[1].Text;
+                Global.tempClass.OrientationFidingStart(sender);
+            }
+        }
+
+        private void StopFindingSTMSIButton_Click(object sender, EventArgs e)
+        {
+            StopFindingSTMSI();
+        }
+
+        private void StopFindingSTMSI()
+        {
+            foreach (ListViewItem LVItem in CellSearchAndMonitorUnions.CellMonitorLV.Items)
+            {
+                AGIInterface.CustomDataEvtArg cusArg = new CustomDataEvtArg();
+                cusArg.data = new byte[] { 0, 0, 0, 0, 4, 2, 0x0c, 0x40, 1, 0, 0, 0 };//加消息头。。
+                cusArg.deivceName = Global.GCurrentDevice;
+                Global.tempClass.SendDataToDevice(FTSTMSIForm, cusArg);
+
+                Global.GCurrentDevice = LVItem.SubItems[6].Text.Trim();
+                cusArg.deivceName = Global.GCurrentDevice;
+                Global.CurrentSender = FTSTMSIForm.Name;
+                //Global.tempClass.Start(CellSearchSender, CDEArgMes);
+                Global.tempClass.SendDataToDevice(FTSTMSIForm, cusArg);
+            }
+            //FTSTMSIForm.GetSTMSIButton.Enabled = true;
+            FTSTMSIForm.StopFindingSTMSIButton.Enabled = false;
+            SendMessageOrPingThread.Abort();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            SendTextMessage();
+        }
+
+        private void TargetSTMSIText_TextChanged(object sender, EventArgs e)
+        {
+            CellSearchAndMonitorUnions.TargetInfoLVItem.SubItems[1].Text = TargetSTMSIText.Text;
+        }
+
+    }
+}

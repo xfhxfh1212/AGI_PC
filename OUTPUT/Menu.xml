@@ -1,0 +1,60 @@
+﻿<?xml version="1.0"?>
+<ArrayOfMenu xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Menu>
+    <CommandName>测向</CommandName>
+    <ChildMenu>
+      <Menu>
+        <CommandName>开始测向</CommandName>
+      </Menu>
+      <Menu>
+        <CommandName>小区搜索</CommandName>
+        <DllName>CellSearchAndMonitor.dll</DllName>
+        <Command>CellSearchAndMonitor.CellSearchAndMonitor</Command>
+      </Menu>
+      <Menu>
+        <CommandName>寻找目标号码</CommandName>
+        <DllName>CellSearchAndMonitor.dll</DllName>
+        <Command>CellSearchAndMonitor.FindTargetSTMSI</Command>
+      </Menu>
+      <Menu>
+        <CommandName>测向</CommandName>
+        <CommandIcon>\\Images\DeviceManager.ico</CommandIcon>
+        <DllName>CellSearchAndMonitor.dll</DllName>
+        <Command>CellSearchAndMonitor.OrientationFinding</Command>
+      </Menu>
+      <Menu>
+        <CommandName>重新测向</CommandName>
+      </Menu>
+    </ChildMenu>
+</Menu>
+
+<Menu>
+    <CommandName>系统</CommandName>
+    <ChildMenu>
+      <Menu>
+        <CommandName>设备连接设置</CommandName>
+        <CommandIcon>\\Images\DeviceManager.ico</CommandIcon>
+        <DllName>DeviceMangerModule.dll</DllName>
+        <Command>DeviceMangerModule.DeviceManger</Command>
+      </Menu>
+	  <Menu>
+        <CommandName>系统设置</CommandName>
+        <CommandIcon>\\Images\DeviceManager.ico</CommandIcon>
+        <DllName>CellSearchAndMonitor.dll</DllName>
+        <Command>CellSearchAndMonitor.SystemConfig</Command>
+      </Menu>
+    </ChildMenu>
+</Menu>
+
+<Menu>
+    <CommandName>帮助</CommandName>
+    <ChildMenu>
+      <Menu>
+        <CommandName>关于</CommandName>
+		<DllName>Help.dll</DllName>
+        <Command>COM.ZCTT.AGI.Help.About</Command>nd>
+      </Menu>
+    </ChildMenu>
+</Menu>
+
+</ArrayOfMenu>
